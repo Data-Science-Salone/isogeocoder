@@ -7,7 +7,6 @@ import numpy as np
 import os
 import shutil
 import glob 
-import requests
 import io
 """
    A python  package that generates a standardized unique identity  based on a country's administrative division or any level for your use case
@@ -24,17 +23,11 @@ def countries_data():
 def subdiv_data():
     df = 'https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_subdivision.csv'
     return df
-def subregions(continent = None,level=None,sep=None):
-    url = "https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv"
-    download = requests.get(url).content
-    countries_df = pd.read_csv(io.StringIO(download.decode('utf-8')))
-    countries = countries_df.drop_duplicates(subset=['Alpha-3 code'])
-    
-    if continent == None:
-        df = countries
-    else:
+def subregions(df,continent = None,level=None,sep=None):
+    countries = df.drop_duplicates(subset=['Alpha-3 code'])
+    if continent is not None:
         continent = continent.capitalize()
-        df = countries[countries['Continet'].str.capitalize()==continent]
+        df = df[df['Continet'].str.capitalize()==continent]
     df = df.drop_duplicates(subset=['Subregions'])
     zfill = len(str(df['M49code_Subregions'].max()))
     zfill_c = len(str(df['M49code_continent'].max()))
@@ -48,18 +41,16 @@ def subregions(continent = None,level=None,sep=None):
     df = df[['Continet','M49code_continent','Continent_code','Subregions','M49code_Subregions','Subregions_code']]
     return df
 
-def continents():
-    url = "https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv"
-    download = requests.get(url).content
-    countries_df = pd.read_csv(io.StringIO(download.decode('utf-8')))
-    countries = countries_df.drop_duplicates(subset=['Alpha-3 code'])
-    df = countries.drop_duplicates(subset=['Continet'])
+def continents(df):
+  
+    df = df.drop_duplicates(subset=['Alpha-3 code'])
+    df = df.drop_duplicates(subset=['Continet'])
     df = df[['Continet','M49code_continent']]
     zfill = len(str(df['M49code_continent'].max()))
     df['Continet_code'] = df['M49code_continent'].astype(str).str.zfill(zfill)
     return df
 
-def countries(continent=None,level=None,sep=None):
+def countries(df,continent=None,level=None,sep=None):
     countries_df = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv')
     countries = countries_df.drop_duplicates(subset=['Alpha-3 code'])
     
@@ -97,29 +88,19 @@ def countries(continent=None,level=None,sep=None):
     df = df[['Continet','M49code_continent','Continent_code','Subregions','M49code_Subregions','Subregions_code','Country','Alpha-3 code','M49Code_country','country_code']]
     return df
 
-def country(country =None):
-    countries_df = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv')
-    countries = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries.csv')
-    countries_sub = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countryiso.csv')
-    iso = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/sub_div_countries.csv')
-    iso_df.loc['subdiv-code'] = iso_df['3166-2 code'].str.replace('*', '')
-    iso_df[['Alpha-2 code','sub-code']] = iso_df['3166-2 code'].str.replace('*', '').str.split('-', expand = True)
-    country_df = pd.merge(countries_sub,iso_df,on='Alpha-2 code',how='inner')
-    countrydf = pd.merge(countries,country_df,on='Alpha-3 code',how='inner')
-    zfill_country = len(str(countries_df['M49Code_country'].max()))
-    zfill = len(str(countrydf['M49code_Subregions'].max()))
-    zfillc = len(str(countrydf['M49code_continent'].max()))
-    countrydf['Subregions_code'] = countrydf['M49code_Subregions'].astype(str).str.zfill(zfill)
-    countrydf['country_code'] = countrydf['M49Code_country'].astype(str).str.zfill(zfill_country)    
-    countrydf['Continent_code'] = countrydf['M49code_continent'].astype(str).str.zfill(zfillc)
-    countrydf = countrydf[['Continet','M49code_continent','Continent_code','Subregions','M49code_Subregions','Subregions_code','Country','M49Code_country','country_code','Alpha-3 code','Alpha-2 code','Subdivision category',
+def country(df,country =None):
+    zfill_country = len(str(df['M49Code_country'].max()))
+    zfill = len(str(df['M49code_Subregions'].max()))
+    zfillc = len(str(df['M49code_continent'].max()))
+    df['Subregions_code'] = df['M49code_Subregions'].astype(str).str.zfill(zfill)
+    df['country_code'] = df['M49Code_country'].astype(str).str.zfill(zfill_country)    
+    df['Continent_code'] = df['M49code_continent'].astype(str).str.zfill(zfillc)
+    df = df[['Continet','M49code_continent','Continent_code','Subregions','M49code_Subregions','Subregions_code','Country','M49Code_country','country_code','Alpha-3 code','Alpha-2 code','Subdivision category',
            'Subdivision name', '3166-2 code', 'sub-code']]
 
-    if country == None:
-            df = countrydf
-    else:
+    if country is not None:
             country = country.capitalize()
-            df = countrydf[(countrydf['Country'].str.capitalize()==country) | (countrydf['Alpha-2 code'].str.upper()==country.upper()) | (countrydf['Subregions'].str.capitalize()==country.capitalize()) | (countrydf['Continet'].str.capitalize()==country.capitalize())]
+            df = df[(df['Country'].str.capitalize()==country) | (df['Alpha-2 code'].str.upper()==country.upper()) | (df['Subregions'].str.capitalize()==country.capitalize()) | (df['Continet'].str.capitalize()==country.capitalize())]
     df = df.drop_duplicates(subset=['3166-2 code'])
     return df
         
