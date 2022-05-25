@@ -1,0 +1,249 @@
+Continet,M49code_continent,Continent_code,Subregions,M49code_Subregions,Subregions_code,Country,Alpha-3 code,M49Code_country,country_code
+Asia,142,142,Southern Asia,34,034,Afghanistan,AFG,4,004
+Asia,142,142,Southern Asia,34,034,Bangladesh,BGD,50,050
+Asia,142,142,Southern Asia,34,034,Bhutan,BTN,64,064
+Asia,142,142,Southern Asia,34,034,India,IND,356,356
+Asia,142,142,Southern Asia,34,034,Iran (Islamic Republic of),IRN,364,364
+Asia,142,142,Southern Asia,34,034,Maldives,MDV,462,462
+Asia,142,142,Southern Asia,34,034,Nepal,NPL,524,524
+Asia,142,142,Southern Asia,34,034,Pakistan,PAK,586,586
+Asia,142,142,Southern Asia,34,034,Sri Lanka,LKA,144,144
+Europe,150,150,Northern Europe,154,154,Aland Islands,ALA,248,248
+Europe,150,150,Northern Europe,154,154,Denmark,DNK,208,208
+Europe,150,150,Northern Europe,154,154,Estonia,EST,233,233
+Europe,150,150,Northern Europe,154,154,Faroe Islands,FRO,234,234
+Europe,150,150,Northern Europe,154,154,Finland,FIN,246,246
+Europe,150,150,Northern Europe,154,154,Guernsey,GGY,831,831
+Europe,150,150,Northern Europe,154,154,Iceland,ISL,352,352
+Europe,150,150,Northern Europe,154,154,Ireland,IRL,372,372
+Europe,150,150,Northern Europe,154,154,Isle of Man,IMN,833,833
+Europe,150,150,Northern Europe,154,154,Jersey,JEY,832,832
+Europe,150,150,Northern Europe,154,154,Latvia,LVA,428,428
+Europe,150,150,Northern Europe,154,154,Lithuania,LTU,440,440
+Europe,150,150,Northern Europe,154,154,Norway,NOR,578,578
+Europe,150,150,Northern Europe,154,154,Sark,,680,680
+Europe,150,150,Northern Europe,154,154,Svalbard and Jan Mayen Islands,SJM,744,744
+Europe,150,150,Northern Europe,154,154,Sweden,SWE,752,752
+Europe,150,150,Northern Europe,154,154,United Kingdom of Great Britain and Northern Ireland,GBR,826,826
+Europe,150,150,Southern Europe,39,039,Albania,ALB,8,008
+Europe,150,150,Southern Europe,39,039,Andorra,AND,20,020
+Europe,150,150,Southern Europe,39,039,Bosnia and Herzegovina,BIH,70,070
+Europe,150,150,Southern Europe,39,039,Croatia,HRV,191,191
+Europe,150,150,Southern Europe,39,039,Gibraltar,GIB,292,292
+Europe,150,150,Southern Europe,39,039,Greece,GRC,300,300
+Europe,150,150,Southern Europe,39,039,Holy See,VAT,336,336
+Europe,150,150,Southern Europe,39,039,Italy,ITA,380,380
+Europe,150,150,Southern Europe,39,039,Malta,MLT,470,470
+Europe,150,150,Southern Europe,39,039,Montenegro,MNE,499,499
+Europe,150,150,Southern Europe,39,039,North Macedonia,MKD,807,807
+Europe,150,150,Southern Europe,39,039,Portugal,PRT,620,620
+Europe,150,150,Southern Europe,39,039,San Marino,SMR,674,674
+Europe,150,150,Southern Europe,39,039,Serbia,SRB,688,688
+Europe,150,150,Southern Europe,39,039,Slovenia,SVN,705,705
+Europe,150,150,Southern Europe,39,039,Spain,ESP,724,724
+Africa,2,002,Northern Africa,15,015,Algeria,DZA,12,012
+Africa,2,002,Northern Africa,15,015,Egypt,EGY,818,818
+Africa,2,002,Northern Africa,15,015,Libya,LBY,434,434
+Africa,2,002,Northern Africa,15,015,Morocco,MAR,504,504
+Africa,2,002,Northern Africa,15,015,Sudan,SDN,729,729
+Africa,2,002,Northern Africa,15,015,Tunisia,TUN,788,788
+Africa,2,002,Northern Africa,15,015,Western Sahara,ESH,732,732
+Oceania,9,009,Polynesia,61,061,American Samoa,ASM,16,016
+Oceania,9,009,Polynesia,61,061,Cook Islands,COK,184,184
+Oceania,9,009,Polynesia,61,061,French Polynesia,PYF,258,258
+Oceania,9,009,Polynesia,61,061,Niue,NIU,570,570
+Oceania,9,009,Polynesia,61,061,Pitcairn,PCN,612,612
+Oceania,9,009,Polynesia,61,061,Samoa,WSM,882,882
+Oceania,9,009,Polynesia,61,061,Tokelau,TKL,772,772
+Oceania,9,009,Polynesia,61,061,Tonga,TON,776,776
+Oceania,9,009,Polynesia,61,061,Tuvalu,TUV,798,798
+Oceania,9,009,Polynesia,61,061,Wallis and Futuna Islands,WLF,876,876
+Africa,2,002,Middle Africa,17,017,Angola,AGO,24,024
+Africa,2,002,Middle Africa,17,017,Cameroon,CMR,120,120
+Africa,2,002,Middle Africa,17,017,Central African Republic,CAF,140,140
+Africa,2,002,Middle Africa,17,017,Chad,TCD,148,148
+Africa,2,002,Middle Africa,17,017,Congo,COG,178,178
+Africa,2,002,Middle Africa,17,017,Democratic Republic of the Congo,COD,180,180
+Africa,2,002,Middle Africa,17,017,Equatorial Guinea,GNQ,226,226
+Africa,2,002,Middle Africa,17,017,Gabon,GAB,266,266
+Africa,2,002,Middle Africa,17,017,Sao Tome and Principe,STP,678,678
+Americas,10,010,Caribbean,29,029,Anguilla,AIA,660,660
+Americas,10,010,Caribbean,29,029,Antigua and Barbuda,ATG,28,028
+Americas,10,010,Caribbean,29,029,Aruba,ABW,533,533
+Americas,10,010,Caribbean,29,029,Bahamas,BHS,44,044
+Americas,10,010,Caribbean,29,029,Barbados,BRB,52,052
+Americas,10,010,Caribbean,29,029,"Bonaire, Sint Eustatius and Saba",BES,535,535
+Americas,10,010,Caribbean,29,029,British Virgin Islands,VGB,92,092
+Americas,10,010,Caribbean,29,029,Cayman Islands,CYM,136,136
+Americas,10,010,Caribbean,29,029,Cuba,CUB,192,192
+Americas,10,010,Caribbean,29,029,Curaçao,CUW,531,531
+Americas,10,010,Caribbean,29,029,Dominica,DMA,212,212
+Americas,10,010,Caribbean,29,029,Dominican Republic,DOM,214,214
+Americas,10,010,Caribbean,29,029,Grenada,GRD,308,308
+Americas,10,010,Caribbean,29,029,Guadeloupe,GLP,312,312
+Americas,10,010,Caribbean,29,029,Haiti,HTI,332,332
+Americas,10,010,Caribbean,29,029,Jamaica,JAM,388,388
+Americas,10,010,Caribbean,29,029,Martinique,MTQ,474,474
+Americas,10,010,Caribbean,29,029,Montserrat,MSR,500,500
+Americas,10,010,Caribbean,29,029,Puerto Rico,PRI,630,630
+Americas,10,010,Caribbean,29,029,Saint Barthelemy,BLM,652,652
+Americas,10,010,Caribbean,29,029,Saint Kitts and Nevis,KNA,659,659
+Americas,10,010,Caribbean,29,029,Saint Lucia,LCA,662,662
+Americas,10,010,Caribbean,29,029,Saint Martin (French Part),MAF,663,663
+Americas,10,010,Caribbean,29,029,Saint Vincent and the Grenadines,VCT,670,670
+Americas,10,010,Caribbean,29,029,Sint Maarten (Dutch part),SXM,534,534
+Americas,10,010,Caribbean,29,029,Trinidad and Tobago,TTO,780,780
+Americas,10,010,Caribbean,29,029,Turks and Caicos Islands,TCA,796,796
+Americas,10,010,Caribbean,29,029,United States Virgin Islands,VIR,850,850
+Americas,10,010,South America,5,005,Argentina,ARG,32,032
+Americas,10,010,South America,5,005,Bolivia (Plurinational State of),BOL,68,068
+Americas,10,010,South America,5,005,Bouvet Island,BVT,74,074
+Americas,10,010,South America,5,005,Brazil,BRA,76,076
+Americas,10,010,South America,5,005,Chile,CHL,152,152
+Americas,10,010,South America,5,005,Colombia,COL,170,170
+Americas,10,010,South America,5,005,Ecuador,ECU,218,218
+Americas,10,010,South America,5,005,Falkland Islands (Malvinas),FLK,238,238
+Americas,10,010,South America,5,005,French Guiana,GUF,254,254
+Americas,10,010,South America,5,005,Guyana,GUY,328,328
+Americas,10,010,South America,5,005,Paraguay,PRY,600,600
+Americas,10,010,South America,5,005,Peru,PER,604,604
+Americas,10,010,South America,5,005,South Georgia and the South Sandwich Islands,SGS,239,239
+Americas,10,010,South America,5,005,Suriname,SUR,740,740
+Americas,10,010,South America,5,005,Uruguay,URY,858,858
+Americas,10,010,South America,5,005,Venezuela (Bolivarian Republic of),VEN,862,862
+Asia,142,142,Western Asia,145,145,Armenia,ARM,51,051
+Asia,142,142,Western Asia,145,145,Azerbaijan,AZE,31,031
+Asia,142,142,Western Asia,145,145,Bahrain,BHR,48,048
+Asia,142,142,Western Asia,145,145,Cyprus,CYP,196,196
+Asia,142,142,Western Asia,145,145,Georgia,GEO,268,268
+Asia,142,142,Western Asia,145,145,Iraq,IRQ,368,368
+Asia,142,142,Western Asia,145,145,Israel,ISR,376,376
+Asia,142,142,Western Asia,145,145,Jordan,JOR,400,400
+Asia,142,142,Western Asia,145,145,Kuwait,KWT,414,414
+Asia,142,142,Western Asia,145,145,Lebanon,LBN,422,422
+Asia,142,142,Western Asia,145,145,Oman,OMN,512,512
+Asia,142,142,Western Asia,145,145,Qatar,QAT,634,634
+Asia,142,142,Western Asia,145,145,Saudi Arabia,SAU,682,682
+Asia,142,142,Western Asia,145,145,State of Palestine,PSE,275,275
+Asia,142,142,Western Asia,145,145,Syrian Arab Republic,SYR,760,760
+Asia,142,142,Western Asia,145,145,Turkey,TUR,792,792
+Asia,142,142,Western Asia,145,145,United Arab Emirates,ARE,784,784
+Asia,142,142,Western Asia,145,145,Yemen,YEM,887,887
+Oceania,9,009,Australia and New Zealand,53,053,Australia,AUS,36,036
+Oceania,10,010,Australia and New Zealand,53,053,Christmas Island,CXR,162,162
+Oceania,11,011,Australia and New Zealand,53,053,Cocos (Keeling) Islands,CCK,166,166
+Oceania,12,012,Australia and New Zealand,53,053,Heard Island and McDonald Islands,HMD,334,334
+Oceania,13,013,Australia and New Zealand,53,053,New Zealand,NZL,554,554
+Oceania,14,014,Australia and New Zealand,53,053,Norfolk Island,NFK,574,574
+Europe,150,150,Western Europe,155,155,Austria,AUT,40,040
+Europe,150,150,Western Europe,155,155,Belgium,BEL,56,056
+Europe,150,150,Western Europe,155,155,France,FRA,250,250
+Europe,150,150,Western Europe,155,155,Germany,DEU,276,276
+Europe,150,150,Western Europe,155,155,Liechtenstein,LIE,438,438
+Europe,150,150,Western Europe,155,155,Luxembourg,LUX,442,442
+Europe,150,150,Western Europe,155,155,Monaco,MCO,492,492
+Europe,150,150,Western Europe,155,155,Netherlands,NLD,528,528
+Europe,150,150,Western Europe,155,155,Switzerland,CHE,756,756
+Europe,151,151,Eastern Europe,151,151,Belarus,BLR,112,112
+Europe,152,152,Eastern Europe,151,151,Bulgaria,BGR,100,100
+Europe,153,153,Eastern Europe,151,151,Czechia,CZE,203,203
+Europe,154,154,Eastern Europe,151,151,Hungary,HUN,348,348
+Europe,155,155,Eastern Europe,151,151,Poland,POL,616,616
+Europe,156,156,Eastern Europe,151,151,Republic of Moldova,MDA,498,498
+Europe,157,157,Eastern Europe,151,151,Romania,ROU,642,642
+Europe,158,158,Eastern Europe,151,151,Russian Federation,RUS,643,643
+Europe,159,159,Eastern Europe,151,151,Slovakia,SVK,703,703
+Europe,160,160,Eastern Europe,151,151,Ukraine,UKR,804,804
+Americas,10,010,Central America,13,013,Belize,BLZ,84,084
+Americas,10,010,Central America,13,013,Costa Rica,CRI,188,188
+Americas,10,010,Central America,13,013,El Salvador,SLV,222,222
+Americas,10,010,Central America,13,013,Guatemala,GTM,320,320
+Americas,10,010,Central America,13,013,Honduras,HND,340,340
+Americas,10,010,Central America,13,013,Mexico,MEX,484,484
+Americas,10,010,Central America,13,013,Nicaragua,NIC,558,558
+Americas,10,010,Central America,13,013,Panama,PAN,591,591
+Africa,2,002,Western Africa,11,011,Benin,BEN,204,204
+Africa,2,002,Western Africa,11,011,Burkina Faso,BFA,854,854
+Africa,2,002,Western Africa,11,011,Cabo Verde,CPV,132,132
+Africa,2,002,Western Africa,11,011,Ivory Coast,CIV,384,384
+Africa,2,002,Western Africa,11,011,Gambia,GMB,270,270
+Africa,2,002,Western Africa,11,011,Ghana,GHA,288,288
+Africa,2,002,Western Africa,11,011,Guinea,GIN,324,324
+Africa,2,002,Western Africa,11,011,Guinea-Bissau,GNB,624,624
+Africa,2,002,Western Africa,11,011,Liberia,LBR,430,430
+Africa,2,002,Western Africa,11,011,Mali,MLI,466,466
+Africa,2,002,Western Africa,11,011,Mauritania,MRT,478,478
+Africa,2,002,Western Africa,11,011,Niger,NER,562,562
+Africa,2,002,Western Africa,11,011,Nigeria,NGA,566,566
+Africa,2,002,Western Africa,11,011,Saint Helena,SHN,654,654
+Africa,2,002,Western Africa,11,011,Senegal,SEN,686,686
+Africa,2,002,Western Africa,11,011,Sierra Leone,SLE,694,694
+Africa,2,002,Western Africa,11,011,Togo,TGO,768,768
+Americas,10,010,Northern America,21,021,Bermuda,BMU,60,060
+Americas,10,010,Northern America,21,021,Canada,CAN,124,124
+Americas,10,010,Northern America,21,021,Greenland,GRL,304,304
+Americas,10,010,Northern America,21,021,Saint Pierre and Miquelon,SPM,666,666
+Americas,10,010,Northern America,21,021,United States of America,USA,840,840
+Africa,2,002,Southern Africa,18,018,Botswana,BWA,72,072
+Africa,2,002,Southern Africa,18,018,Eswatini,SWZ,748,748
+Africa,2,002,Southern Africa,18,018,Lesotho,LSO,426,426
+Africa,2,002,Southern Africa,18,018,Namibia,NAM,516,516
+Africa,2,002,Southern Africa,18,018,South Africa,ZAF,710,710
+Africa,2,002,Eastern Africa,14,014,British Indian Ocean Territory,IOT,86,086
+Africa,2,002,Eastern Africa,14,014,Burundi,BDI,108,108
+Africa,2,002,Eastern Africa,14,014,Comoros,COM,174,174
+Africa,2,002,Eastern Africa,14,014,Djibouti,DJI,262,262
+Africa,2,002,Eastern Africa,14,014,Eritrea,ERI,232,232
+Africa,2,002,Eastern Africa,14,014,Ethiopia,ETH,231,231
+Africa,2,002,Eastern Africa,14,014,French Southern Territories,ATF,260,260
+Africa,2,002,Eastern Africa,14,014,Kenya,KEN,404,404
+Africa,2,002,Eastern Africa,14,014,Madagascar,MDG,450,450
+Africa,2,002,Eastern Africa,14,014,Malawi,MWI,454,454
+Africa,2,002,Eastern Africa,14,014,Mauritius,MUS,480,480
+Africa,2,002,Eastern Africa,14,014,Mayotte,MYT,175,175
+Africa,2,002,Eastern Africa,14,014,Mozambique,MOZ,508,508
+Africa,2,002,Eastern Africa,14,014,Réunion,REU,638,638
+Africa,2,002,Eastern Africa,14,014,Rwanda,RWA,646,646
+Africa,2,002,Eastern Africa,14,014,Seychelles,SYC,690,690
+Africa,2,002,Eastern Africa,14,014,Somalia,SOM,706,706
+Africa,2,002,Eastern Africa,14,014,South Sudan,SSD,728,728
+Africa,2,002,Eastern Africa,14,014,Uganda,UGA,800,800
+Africa,2,002,Eastern Africa,14,014,United Republic of Tanzania,TZA,834,834
+Africa,2,002,Eastern Africa,14,014,Zambia,ZMB,894,894
+Africa,2,002,Eastern Africa,14,014,Zimbabwe,ZWE,716,716
+Asia,142,142,South-eastern Asia,35,035,Brunei Darussalam,BRN,96,096
+Asia,142,142,South-eastern Asia,35,035,Cambodia,KHM,116,116
+Asia,142,142,South-eastern Asia,35,035,Indonesia,IDN,360,360
+Asia,142,142,South-eastern Asia,35,035,Lao People's Democratic Republic,LAO,418,418
+Asia,142,142,South-eastern Asia,35,035,Malaysia,MYS,458,458
+Asia,142,142,South-eastern Asia,35,035,Myanmar,MMR,104,104
+Asia,142,142,South-eastern Asia,35,035,Philippines,PHL,608,608
+Asia,142,142,South-eastern Asia,35,035,Singapore,SGP,702,702
+Asia,142,142,South-eastern Asia,35,035,Thailand,THA,764,764
+Asia,142,142,South-eastern Asia,35,035,Timor-Leste,TLS,626,626
+Asia,142,142,South-eastern Asia,35,035,Viet Nam,VNM,704,704
+Asia,142,142,Eastern Asia,30,030,China,CHN,156,156
+Asia,142,142,Eastern Asia,30,030,"China, Hong Kong Special Administrative Region",HKG,344,344
+Asia,142,142,Eastern Asia,30,030,"China, Macao Special Administrative Region",MAC,446,446
+Asia,142,142,Eastern Asia,30,030,Democratic People's Republic of Korea,PRK,408,408
+Asia,142,142,Eastern Asia,30,030,Japan,JPN,392,392
+Asia,142,142,Eastern Asia,30,030,Mongolia,MNG,496,496
+Asia,142,142,Eastern Asia,30,030,Republic of Korea,KOR,410,410
+Oceania,9,009,Melanesia,54,054,Fiji,FJI,242,242
+Oceania,9,009,Melanesia,54,054,New Caledonia,NCL,540,540
+Oceania,9,009,Melanesia,54,054,Papua New Guinea,PNG,598,598
+Oceania,9,009,Melanesia,54,054,Solomon Islands,SLB,90,090
+Oceania,9,009,Melanesia,54,054,Vanuatu,VUT,548,548
+Oceania,9,009,Micronesia,57,057,Guam,GUM,316,316
+Oceania,9,009,Micronesia,57,057,Kiribati,KIR,296,296
+Oceania,9,009,Micronesia,57,057,Marshall Islands,MHL,584,584
+Oceania,9,009,Micronesia,57,057,Micronesia (Federated States of),FSM,583,583
+Oceania,9,009,Micronesia,57,057,Nauru,NRU,520,520
+Oceania,9,009,Micronesia,57,057,Northern Mariana Islands,MNP,580,580
+Oceania,9,009,Micronesia,57,057,Palau,PLW,585,585
+Oceania,9,009,Micronesia,57,057,United States Minor Outlying Islands,UMI,581,581
+Asia,142,142,Central Asia,143,143,Kazakhstan,KAZ,398,398
+Asia,142,142,Central Asia,143,143,Kyrgyzstan,KGZ,417,417
+Asia,142,142,Central Asia,143,143,Tajikistan,TJK,762,762
+Asia,142,142,Central Asia,143,143,Turkmenistan,TKM,795,795
+Asia,142,142,Central Asia,143,143,Uzbekistan,UZB,860,860

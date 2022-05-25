@@ -7,6 +7,8 @@ import numpy as np
 import os
 import shutil
 import glob 
+import requests
+import io
 """
    A python  package that generates a standardized unique identity  based on a country's administrative division or any level for your use case
 Use cases:
@@ -16,8 +18,16 @@ Use cases:
        Area indentity generation in digital addressing system,
 
 """
+def countries_data():
+    df = 'https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv'
+    return df
+def subdiv_data():
+    df = 'https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_subdivision.csv'
+    return df
 def subregions(continent = None,level=None,sep=None):
-    countries_df = pd.read_csv('countries_iso.csv')
+    url = "https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv"
+    download = requests.get(url).content
+    countries_df = pd.read_csv(io.StringIO(download.decode('utf-8')))
     countries = countries_df.drop_duplicates(subset=['Alpha-3 code'])
     
     if continent == None:
@@ -39,7 +49,9 @@ def subregions(continent = None,level=None,sep=None):
     return df
 
 def continents():
-    countries_df = pd.read_csv('countries_iso.csv')
+    url = "https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv"
+    download = requests.get(url).content
+    countries_df = pd.read_csv(io.StringIO(download.decode('utf-8')))
     countries = countries_df.drop_duplicates(subset=['Alpha-3 code'])
     df = countries.drop_duplicates(subset=['Continet'])
     df = df[['Continet','M49code_continent']]
@@ -48,7 +60,7 @@ def continents():
     return df
 
 def countries(continent=None,level=None,sep=None):
-    countries_df = pd.read_csv('countries_iso.csv')
+    countries_df = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv')
     countries = countries_df.drop_duplicates(subset=['Alpha-3 code'])
     
     if continent == None:
@@ -86,10 +98,10 @@ def countries(continent=None,level=None,sep=None):
     return df
 
 def country(country =None):
-    countries_df = pd.read_csv('countries_iso.csv')
-    countries = pd.read_csv('countries.csv')
-    countries_sub = pd.read_csv('countryiso.csv')
-    iso = pd.read_csv('sub_div_countries.csv')
+    countries_df = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv')
+    countries = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries.csv')
+    countries_sub = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countryiso.csv')
+    iso = pd.read_csv('https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/sub_div_countries.csv')
     iso_df.loc['subdiv-code'] = iso_df['3166-2 code'].str.replace('*', '')
     iso_df[['Alpha-2 code','sub-code']] = iso_df['3166-2 code'].str.replace('*', '').str.split('-', expand = True)
     country_df = pd.merge(countries_sub,iso_df,on='Alpha-2 code',how='inner')

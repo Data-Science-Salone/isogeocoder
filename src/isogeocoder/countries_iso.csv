@@ -1,0 +1,249 @@
+M49code_continent,Continet,M49code_Subregions,Subregions,Country,Alpha-3 code,M49Code_country
+142,Asia,34,Southern Asia,Afghanistan,AFG,4
+142,Asia,34,Southern Asia,Bangladesh,BGD,50
+142,Asia,34,Southern Asia,Bhutan,BTN,64
+142,Asia,34,Southern Asia,India,IND,356
+142,Asia,34,Southern Asia,Iran (Islamic Republic of),IRN,364
+142,Asia,34,Southern Asia,Maldives,MDV,462
+142,Asia,34,Southern Asia,Nepal,NPL,524
+142,Asia,34,Southern Asia,Pakistan,PAK,586
+142,Asia,34,Southern Asia,Sri Lanka,LKA,144
+150,Europe,154,Northern Europe,Aland Islands,ALA,248
+150,Europe,154,Northern Europe,Denmark,DNK,208
+150,Europe,154,Northern Europe,Estonia,EST,233
+150,Europe,154,Northern Europe,Faroe Islands,FRO,234
+150,Europe,154,Northern Europe,Finland,FIN,246
+150,Europe,154,Northern Europe,Guernsey,GGY,831
+150,Europe,154,Northern Europe,Iceland,ISL,352
+150,Europe,154,Northern Europe,Ireland,IRL,372
+150,Europe,154,Northern Europe,Isle of Man,IMN,833
+150,Europe,154,Northern Europe,Jersey,JEY,832
+150,Europe,154,Northern Europe,Latvia,LVA,428
+150,Europe,154,Northern Europe,Lithuania,LTU,440
+150,Europe,154,Northern Europe,Norway,NOR,578
+150,Europe,154,Northern Europe,Sark,,680
+150,Europe,154,Northern Europe,Svalbard and Jan Mayen Islands,SJM,744
+150,Europe,154,Northern Europe,Sweden,SWE,752
+150,Europe,154,Northern Europe,United Kingdom of Great Britain and Northern Ireland,GBR,826
+150,Europe,39,Southern Europe,Albania,ALB,8
+150,Europe,39,Southern Europe,Andorra,AND,20
+150,Europe,39,Southern Europe,Bosnia and Herzegovina,BIH,70
+150,Europe,39,Southern Europe,Croatia,HRV,191
+150,Europe,39,Southern Europe,Gibraltar,GIB,292
+150,Europe,39,Southern Europe,Greece,GRC,300
+150,Europe,39,Southern Europe,Holy See,VAT,336
+150,Europe,39,Southern Europe,Italy,ITA,380
+150,Europe,39,Southern Europe,Malta,MLT,470
+150,Europe,39,Southern Europe,Montenegro,MNE,499
+150,Europe,39,Southern Europe,North Macedonia,MKD,807
+150,Europe,39,Southern Europe,Portugal,PRT,620
+150,Europe,39,Southern Europe,San Marino,SMR,674
+150,Europe,39,Southern Europe,Serbia,SRB,688
+150,Europe,39,Southern Europe,Slovenia,SVN,705
+150,Europe,39,Southern Europe,Spain,ESP,724
+2,Africa,15,Northern Africa,Algeria,DZA,12
+2,Africa,15,Northern Africa,Egypt,EGY,818
+2,Africa,15,Northern Africa,Libya,LBY,434
+2,Africa,15,Northern Africa,Morocco,MAR,504
+2,Africa,15,Northern Africa,Sudan,SDN,729
+2,Africa,15,Northern Africa,Tunisia,TUN,788
+2,Africa,15,Northern Africa,Western Sahara,ESH,732
+9,Oceania,61,Polynesia,American Samoa,ASM,16
+9,Oceania,61,Polynesia,Cook Islands,COK,184
+9,Oceania,61,Polynesia,French Polynesia,PYF,258
+9,Oceania,61,Polynesia,Niue,NIU,570
+9,Oceania,61,Polynesia,Pitcairn,PCN,612
+9,Oceania,61,Polynesia,Samoa,WSM,882
+9,Oceania,61,Polynesia,Tokelau,TKL,772
+9,Oceania,61,Polynesia,Tonga,TON,776
+9,Oceania,61,Polynesia,Tuvalu,TUV,798
+9,Oceania,61,Polynesia,Wallis and Futuna Islands,WLF,876
+2,Africa,17,Middle Africa,Angola,AGO,24
+2,Africa,17,Middle Africa,Cameroon,CMR,120
+2,Africa,17,Middle Africa,Central African Republic,CAF,140
+2,Africa,17,Middle Africa,Chad,TCD,148
+2,Africa,17,Middle Africa,Congo,COG,178
+2,Africa,17,Middle Africa,Democratic Republic of the Congo,COD,180
+2,Africa,17,Middle Africa,Equatorial Guinea,GNQ,226
+2,Africa,17,Middle Africa,Gabon,GAB,266
+2,Africa,17,Middle Africa,Sao Tome and Principe,STP,678
+10,Americas,29,Caribbean,Anguilla,AIA,660
+10,Americas,29,Caribbean,Antigua and Barbuda,ATG,28
+10,Americas,29,Caribbean,Aruba,ABW,533
+10,Americas,29,Caribbean,Bahamas,BHS,44
+10,Americas,29,Caribbean,Barbados,BRB,52
+10,Americas,29,Caribbean,"Bonaire, Sint Eustatius and Saba",BES,535
+10,Americas,29,Caribbean,British Virgin Islands,VGB,92
+10,Americas,29,Caribbean,Cayman Islands,CYM,136
+10,Americas,29,Caribbean,Cuba,CUB,192
+10,Americas,29,Caribbean,Curaçao,CUW,531
+10,Americas,29,Caribbean,Dominica,DMA,212
+10,Americas,29,Caribbean,Dominican Republic,DOM,214
+10,Americas,29,Caribbean,Grenada,GRD,308
+10,Americas,29,Caribbean,Guadeloupe,GLP,312
+10,Americas,29,Caribbean,Haiti,HTI,332
+10,Americas,29,Caribbean,Jamaica,JAM,388
+10,Americas,29,Caribbean,Martinique,MTQ,474
+10,Americas,29,Caribbean,Montserrat,MSR,500
+10,Americas,29,Caribbean,Puerto Rico,PRI,630
+10,Americas,29,Caribbean,Saint Barthelemy,BLM,652
+10,Americas,29,Caribbean,Saint Kitts and Nevis,KNA,659
+10,Americas,29,Caribbean,Saint Lucia,LCA,662
+10,Americas,29,Caribbean,Saint Martin (French Part),MAF,663
+10,Americas,29,Caribbean,Saint Vincent and the Grenadines,VCT,670
+10,Americas,29,Caribbean,Sint Maarten (Dutch part),SXM,534
+10,Americas,29,Caribbean,Trinidad and Tobago,TTO,780
+10,Americas,29,Caribbean,Turks and Caicos Islands,TCA,796
+10,Americas,29,Caribbean,United States Virgin Islands,VIR,850
+10,Americas,5,South America,Argentina,ARG,32
+10,Americas,5,South America,Bolivia (Plurinational State of),BOL,68
+10,Americas,5,South America,Bouvet Island,BVT,74
+10,Americas,5,South America,Brazil,BRA,76
+10,Americas,5,South America,Chile,CHL,152
+10,Americas,5,South America,Colombia,COL,170
+10,Americas,5,South America,Ecuador,ECU,218
+10,Americas,5,South America,Falkland Islands (Malvinas),FLK,238
+10,Americas,5,South America,French Guiana,GUF,254
+10,Americas,5,South America,Guyana,GUY,328
+10,Americas,5,South America,Paraguay,PRY,600
+10,Americas,5,South America,Peru,PER,604
+10,Americas,5,South America,South Georgia and the South Sandwich Islands,SGS,239
+10,Americas,5,South America,Suriname,SUR,740
+10,Americas,5,South America,Uruguay,URY,858
+10,Americas,5,South America,Venezuela (Bolivarian Republic of),VEN,862
+142,Asia,145,Western Asia,Armenia,ARM,51
+142,Asia,145,Western Asia,Azerbaijan,AZE,31
+142,Asia,145,Western Asia,Bahrain,BHR,48
+142,Asia,145,Western Asia,Cyprus,CYP,196
+142,Asia,145,Western Asia,Georgia,GEO,268
+142,Asia,145,Western Asia,Iraq,IRQ,368
+142,Asia,145,Western Asia,Israel,ISR,376
+142,Asia,145,Western Asia,Jordan,JOR,400
+142,Asia,145,Western Asia,Kuwait,KWT,414
+142,Asia,145,Western Asia,Lebanon,LBN,422
+142,Asia,145,Western Asia,Oman,OMN,512
+142,Asia,145,Western Asia,Qatar,QAT,634
+142,Asia,145,Western Asia,Saudi Arabia,SAU,682
+142,Asia,145,Western Asia,State of Palestine,PSE,275
+142,Asia,145,Western Asia,Syrian Arab Republic,SYR,760
+142,Asia,145,Western Asia,Turkey,TUR,792
+142,Asia,145,Western Asia,United Arab Emirates,ARE,784
+142,Asia,145,Western Asia,Yemen,YEM,887
+9,Oceania,53,Australia and New Zealand,Australia,AUS,36
+10,Oceania,53,Australia and New Zealand,Christmas Island,CXR,162
+11,Oceania,53,Australia and New Zealand,Cocos (Keeling) Islands,CCK,166
+12,Oceania,53,Australia and New Zealand,Heard Island and McDonald Islands,HMD,334
+13,Oceania,53,Australia and New Zealand,New Zealand,NZL,554
+14,Oceania,53,Australia and New Zealand,Norfolk Island,NFK,574
+150,Europe,155,Western Europe,Austria,AUT,40
+150,Europe,155,Western Europe,Belgium,BEL,56
+150,Europe,155,Western Europe,France,FRA,250
+150,Europe,155,Western Europe,Germany,DEU,276
+150,Europe,155,Western Europe,Liechtenstein,LIE,438
+150,Europe,155,Western Europe,Luxembourg,LUX,442
+150,Europe,155,Western Europe,Monaco,MCO,492
+150,Europe,155,Western Europe,Netherlands,NLD,528
+150,Europe,155,Western Europe,Switzerland,CHE,756
+151,Europe,151,Eastern Europe,Belarus,BLR,112
+152,Europe,151,Eastern Europe,Bulgaria,BGR,100
+153,Europe,151,Eastern Europe,Czechia,CZE,203
+154,Europe,151,Eastern Europe,Hungary,HUN,348
+155,Europe,151,Eastern Europe,Poland,POL,616
+156,Europe,151,Eastern Europe,Republic of Moldova,MDA,498
+157,Europe,151,Eastern Europe,Romania,ROU,642
+158,Europe,151,Eastern Europe,Russian Federation,RUS,643
+159,Europe,151,Eastern Europe,Slovakia,SVK,703
+160,Europe,151,Eastern Europe,Ukraine,UKR,804
+10,Americas,13,Central America,Belize,BLZ,84
+10,Americas,13,Central America,Costa Rica,CRI,188
+10,Americas,13,Central America,El Salvador,SLV,222
+10,Americas,13,Central America,Guatemala,GTM,320
+10,Americas,13,Central America,Honduras,HND,340
+10,Americas,13,Central America,Mexico,MEX,484
+10,Americas,13,Central America,Nicaragua,NIC,558
+10,Americas,13,Central America,Panama,PAN,591
+2,Africa,11,Western Africa,Benin,BEN,204
+2,Africa,11,Western Africa,Burkina Faso,BFA,854
+2,Africa,11,Western Africa,Cabo Verde,CPV,132
+2,Africa,11,Western Africa,Ivory Coast,CIV,384
+2,Africa,11,Western Africa,Gambia,GMB,270
+2,Africa,11,Western Africa,Ghana,GHA,288
+2,Africa,11,Western Africa,Guinea,GIN,324
+2,Africa,11,Western Africa,Guinea-Bissau,GNB,624
+2,Africa,11,Western Africa,Liberia,LBR,430
+2,Africa,11,Western Africa,Mali,MLI,466
+2,Africa,11,Western Africa,Mauritania,MRT,478
+2,Africa,11,Western Africa,Niger,NER,562
+2,Africa,11,Western Africa,Nigeria,NGA,566
+2,Africa,11,Western Africa,Saint Helena,SHN,654
+2,Africa,11,Western Africa,Senegal,SEN,686
+2,Africa,11,Western Africa,Sierra Leone,SLE,694
+2,Africa,11,Western Africa,Togo,TGO,768
+10,Americas,21,Northern America,Bermuda,BMU,60
+10,Americas,21,Northern America,Canada,CAN,124
+10,Americas,21,Northern America,Greenland,GRL,304
+10,Americas,21,Northern America,Saint Pierre and Miquelon,SPM,666
+10,Americas,21,Northern America,United States of America,USA,840
+2,Africa,18,Southern Africa,Botswana,BWA,72
+2,Africa,18,Southern Africa,Eswatini,SWZ,748
+2,Africa,18,Southern Africa,Lesotho,LSO,426
+2,Africa,18,Southern Africa,Namibia,NAM,516
+2,Africa,18,Southern Africa,South Africa,ZAF,710
+2,Africa,14,Eastern Africa,British Indian Ocean Territory,IOT,86
+2,Africa,14,Eastern Africa,Burundi,BDI,108
+2,Africa,14,Eastern Africa,Comoros,COM,174
+2,Africa,14,Eastern Africa,Djibouti,DJI,262
+2,Africa,14,Eastern Africa,Eritrea,ERI,232
+2,Africa,14,Eastern Africa,Ethiopia,ETH,231
+2,Africa,14,Eastern Africa,French Southern Territories,ATF,260
+2,Africa,14,Eastern Africa,Kenya,KEN,404
+2,Africa,14,Eastern Africa,Madagascar,MDG,450
+2,Africa,14,Eastern Africa,Malawi,MWI,454
+2,Africa,14,Eastern Africa,Mauritius,MUS,480
+2,Africa,14,Eastern Africa,Mayotte,MYT,175
+2,Africa,14,Eastern Africa,Mozambique,MOZ,508
+2,Africa,14,Eastern Africa,Réunion,REU,638
+2,Africa,14,Eastern Africa,Rwanda,RWA,646
+2,Africa,14,Eastern Africa,Seychelles,SYC,690
+2,Africa,14,Eastern Africa,Somalia,SOM,706
+2,Africa,14,Eastern Africa,South Sudan,SSD,728
+2,Africa,14,Eastern Africa,Uganda,UGA,800
+2,Africa,14,Eastern Africa,United Republic of Tanzania,TZA,834
+2,Africa,14,Eastern Africa,Zambia,ZMB,894
+2,Africa,14,Eastern Africa,Zimbabwe,ZWE,716
+142,Asia,35,South-eastern Asia,Brunei Darussalam,BRN,96
+142,Asia,35,South-eastern Asia,Cambodia,KHM,116
+142,Asia,35,South-eastern Asia,Indonesia,IDN,360
+142,Asia,35,South-eastern Asia,Lao People's Democratic Republic,LAO,418
+142,Asia,35,South-eastern Asia,Malaysia,MYS,458
+142,Asia,35,South-eastern Asia,Myanmar,MMR,104
+142,Asia,35,South-eastern Asia,Philippines,PHL,608
+142,Asia,35,South-eastern Asia,Singapore,SGP,702
+142,Asia,35,South-eastern Asia,Thailand,THA,764
+142,Asia,35,South-eastern Asia,Timor-Leste,TLS,626
+142,Asia,35,South-eastern Asia,Viet Nam,VNM,704
+142,Asia,30,Eastern Asia,China,CHN,156
+142,Asia,30,Eastern Asia,"China, Hong Kong Special Administrative Region",HKG,344
+142,Asia,30,Eastern Asia,"China, Macao Special Administrative Region",MAC,446
+142,Asia,30,Eastern Asia,Democratic People's Republic of Korea,PRK,408
+142,Asia,30,Eastern Asia,Japan,JPN,392
+142,Asia,30,Eastern Asia,Mongolia,MNG,496
+142,Asia,30,Eastern Asia,Republic of Korea,KOR,410
+9,Oceania,54,Melanesia,Fiji,FJI,242
+9,Oceania,54,Melanesia,New Caledonia,NCL,540
+9,Oceania,54,Melanesia,Papua New Guinea,PNG,598
+9,Oceania,54,Melanesia,Solomon Islands,SLB,90
+9,Oceania,54,Melanesia,Vanuatu,VUT,548
+9,Oceania,57,Micronesia,Guam,GUM,316
+9,Oceania,57,Micronesia,Kiribati,KIR,296
+9,Oceania,57,Micronesia,Marshall Islands,MHL,584
+9,Oceania,57,Micronesia,Micronesia (Federated States of),FSM,583
+9,Oceania,57,Micronesia,Nauru,NRU,520
+9,Oceania,57,Micronesia,Northern Mariana Islands,MNP,580
+9,Oceania,57,Micronesia,Palau,PLW,585
+9,Oceania,57,Micronesia,United States Minor Outlying Islands,UMI,581
+142,Asia,143,Central Asia,Kazakhstan,KAZ,398
+142,Asia,143,Central Asia,Kyrgyzstan,KGZ,417
+142,Asia,143,Central Asia,Tajikistan,TJK,762
+142,Asia,143,Central Asia,Turkmenistan,TKM,795
+142,Asia,143,Central Asia,Uzbekistan,UZB,860
