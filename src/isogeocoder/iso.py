@@ -21,7 +21,7 @@ def countries_data():
     df = 'https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_iso.csv'
     return df
 def subdiv_data():
-    df = 'https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_subdivision.csv'
+    df = 'https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/countries_subdivision_iso.csv'
     return df
 def subregions(df,continent = None,level=None,sep=None):
     countries = df.drop_duplicates(subset=['Alpha-3 code'])
