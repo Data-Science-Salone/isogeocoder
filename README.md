@@ -105,7 +105,7 @@ iso.country(subdivision_df,'Sierra Leone')
 
 ```
 
-##Documentation 
+## Documentation 
 Documentation is available  [here](https://github.com/MBSSE-SL/isogeocoder/blob/gh-pages/documentation.md) 
 
 ## Contributing
