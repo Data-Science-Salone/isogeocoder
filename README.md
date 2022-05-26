@@ -1,6 +1,6 @@
 ## **About isogeocoder**
 isogeocoder is a tool that generates and assign standardized iso compliant unique identification number or coders for a location and entities.
-it can create and assign based on a countries administrative division geo-location or any level for your use case such as:
+It can create and assign based on a countries administrative division geo-location or any level for your use case such as:
 
 *  Unique school identity in the education management information system.
 *  Unique health facility identity in health management information system.
