@@ -10,9 +10,6 @@ It can create and assign based on a countries administrative division geo-locati
 ## Dependencies
    isogeocoder is built on pandas, so all pandas operations can work on isogeocoder. Dataframe generated from each level is saved as CSV in the directory named the level.
   
-   
-   We also recommended using the Jupyter notebook 
-   
 ##  Installation
 Install isogeocoder with pip3
 
@@ -21,10 +18,10 @@ pip3 install isogeocoder
 ```
       
 ##   Usage/Examples
-  
+
    isogeocoder is a combination of two libraries, one is the **iso** library, standard countries dataset manipulation, and the **geo** library which generates administrative level code on your dataset and generates id using the index of your entity dataset.
    We are using the sierra leone school list for the examples, dataset [SL School List](https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/sl_school_list.csv)
-   
+     
    **GEO Examples**:
    
    Generating a unique school identity for an EMIS system
