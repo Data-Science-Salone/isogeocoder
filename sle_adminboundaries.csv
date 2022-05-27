@@ -1,0 +1,1323 @@
+﻿Shape *,admin4Name_en,admin4Pcode,admin4RefName,admin3Name_en,admin3Pcode,admin2Name_en,admin2Pcode,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,Shape_Length,Shape_Area
+Polygon,Bagollay,SL03041201,Bagollay,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.096624,0.000561
+Polygon,Bapawa,SL03041202,Bapawa,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.266738,0.002302
+Polygon,Batowa,SL03041203,Batowa,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.247065,0.001171
+Polygon,Bekowa,SL03041204,Bekowa,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.109459,0.000547
+Polygon,Deyombo,SL03041205,Deyombo,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.121286,0.000911
+Polygon,Fortune,SL03041206,Fortune,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.141004,0.000731
+Polygon,Kpukumu,SL03041209,Kpukumu,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.356938,0.002449
+Polygon,Seiwoh,SL03041210,Seiwoh,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.19468,0.001814
+Polygon,Yabai,SL03041212,Yabai,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.185291,0.001608
+Polygon,Mathirie,SL02041213,Mathirie,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.233526,0.00309
+Polygon,Rogbla,SL02040113,Rogbla,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.235714,0.001671
+Polygon,Bakoi,SL03040401,Bakoi,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.350381,0.004405
+Polygon,Jakema II,SL03040207,Jakema II,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.31714,0.002921
+Polygon,Kemo-Bo,SL03041207,Kemo-Bo,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.121892,0.000894
+Polygon,Banyande,SL03040402,Banyande,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.276786,0.0039
+Polygon,Pelegbulor,SL03040213,Pelegbulor,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.385395,0.005507
+Polygon,Jassende Kpeima,SL03040301,Jassende Kpeima,Kpaka,SL030403,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.310661,0.003577
+Polygon,Jassende Masaoma,SL03040302,Jassende Masaoma,Kpaka,SL030403,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.267785,0.002116
+Polygon,Kabonde,SL03040403,Kabonde,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.249407,0.003445
+Polygon,Fikie,SL03020201,Fikie,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.217131,0.001915
+Polygon,Tongowa,SL03010905,Tongowa,Komboya,SL030109,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.281315,0.003368
+Polygon,Vanjelu,SL03011406,Vanjelu,Valunia,SL030114,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.216973,0.002663
+Polygon,Dakona,SL03040101,Dakona,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.310417,0.004711
+Polygon,Gbengain,SL03020202,Gbengain,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.261731,0.002398
+Polygon,Kondogbe,SL03040404,Kondogbe,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.285209,0.002912
+Polygon,Petifu Bana,SL02040208,Petifu Bana,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.189039,0.002038
+Polygon,Gbondubum,SL03020203,Gbondubum,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.220159,0.001866
+Polygon,Duramania,SL02020104,Duramania,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.201295,0.002275
+Polygon,Senjehun,SL03020604,Senjehun,Kpanda Kemo,SL030206,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.247497,0.002059
+Polygon,Sewama,SL03020605,Sewama,Kpanda Kemo,SL030206,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.190705,0.001545
+Polygon,Taokunor,SL03020606,Taokunor,Kpanda Kemo,SL030206,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.192322,0.001928
+Polygon,Kwako Lanten,SL03020702,Kwako Lanten,Kwamebai Krim,SL030207,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.151417,0.001259
+Polygon,Massa Settie,SL03020703,Massa Settie,Kwamebai Krim,SL030207,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.216272,0.002974
+Polygon,Mosenten Sahen II,SL03020704,Mosenten Sahen II,Kwamebai Krim,SL030207,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.299175,0.003203
+Polygon,Tubla,SL03020705,Tubla,Kwamebai Krim,SL030207,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.275739,0.003782
+Polygon,Bohol,SL03020802,Bohol,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.376489,0.002791
+Polygon,Bullom,SL03020803,Bullom,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.326186,0.003698
+Polygon,Garinga,SL03020804,Garinga,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.402757,0.006291
+Polygon,Gbangbassa,SL03020805,Gbangbassa,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.322149,0.003153
+Polygon,Gbap,SL03020806,Gbap,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.162212,0.001528
+Polygon,Hahun,SL03020807,Hahun,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.273632,0.002537
+Polygon,Kessie,SL03020808,Kessie,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.275075,0.003728
+Polygon,Manyime,SL03020809,Manyime,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.231447,0.002522
+Polygon,Pelewahun,SL03020810,Pelewahun,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.235247,0.002476
+Polygon,Salma,SL03020811,Salma,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.253308,0.001906
+Polygon,Solon,SL03020812,Solon,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.241879,0.003003
+Polygon,Torma Subu,SL03020813,Torma Subu,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.400685,0.008473
+Polygon,Sahaya,SL03020908,Sahaya,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.416767,0.006813
+Polygon,Sahn-Gbegu,SL03020909,Sahn-Gbegu,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.242004,0.002749
+Polygon,Sampoh,SL03020910,Sampoh,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.207121,0.002459
+Polygon,Roponka,SL02041217,Roponka,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.233025,0.002047
+Polygon,Fallay,SL03040102,Fallay,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.434315,0.00751
+Polygon,Jougba,SL03040103,Jougba,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.421929,0.006302
+Polygon,Karjei,SL03040104,Karjei,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.238291,0.003071
+Polygon,Bondor,SL03040201,Bondor,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.22295,0.002725
+Polygon,Dabeni,SL03040202,Dabeni,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.147508,0.001109
+Polygon,Laimba,SL03040105,Laimba,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.547772,0.005675
+Polygon,Malla,SL03040106,Malla,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.222559,0.001004
+Polygon,Sonjour I,SL03040107,Sonjour I,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.278571,0.00384
+Polygon,Sonjour II,SL03040108,Sonjour II,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.333824,0.005796
+Polygon,Tetima,SL03040109,Tetima,Barri,SL030401,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.240725,0.00213
+Polygon,Jassende Ngoleima,SL03040304,Jassende Ngoleima,Kpaka,SL030403,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.12439,0.000683
+Polygon,Dakona,SL03040203,Dakona,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.404633,0.003795
+Polygon,Gendema I,SL03040204,Gendema I,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.533258,0.009661
+Polygon,Gendema II,SL03040205,Gendema II,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.169035,0.001266
+Polygon,Jakema I,SL03040206,Jakema I,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.35984,0.003426
+Polygon,Kemo-wa,SL03041208,Kemo-wa,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.103893,0.000456
+Polygon,Joya,SL03040208,Joya,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.386495,0.007362
+Polygon,Kemokai,SL03040209,Kemokai,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.279768,0.002682
+Polygon,Kortugbu,SL03040210,Kortugbu,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.249289,0.002841
+Polygon,Mallah,SL03040211,Mallah,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.229318,0.00175
+Polygon,Mewah,SL03040212,Mewah,Galliness Perri,SL030402,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.290602,0.003511
+Polygon,Jassende Ngoleima,SL03040303,Jassende Ngoleima,Kpaka,SL030403,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.394182,0.004389
+Polygon,Nyango - Njeigbla,SL03040305,Nyango - Njeigbla,Kpaka,SL030403,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.280775,0.001987
+Polygon,Nyango-Ngoleihun,SL03040306,Nyango-Ngoleihun,Kpaka,SL030403,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.199653,0.001967
+Polygon,Parvu,SL03040307,Parvu,Kpaka,SL030403,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.254292,0.002562
+Polygon,Sarbah,SL03040308,Sarbah,Kpaka,SL030403,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.47844,0.007613
+Polygon,Lower Kayiemba,SL03040405,Lower Kayiemba,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.172528,0.001545
+Polygon,Samba,SL03040408,Samba,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.41273,0.00602
+Polygon,Upper Kayiemba,SL03040410,Upper Kayiemba,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.377132,0.002371
+Polygon,Kengo,SL03040501,Kengo,Makpele,SL030405,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.228007,0.001531
+Polygon,Panga,SL03040406,Panga,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.673977,0.007677
+Polygon,Pessekeh,SL03040407,Pessekeh,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.242105,0.00264
+Polygon,Setti-Yakanday,SL03040409,Setti-Yakanday,Panga Kabonde,SL030404,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.340568,0.005844
+Polygon,Samagbe,SL03040502,Samagbe,Makpele,SL030405,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.78632,0.015639
+Polygon,Kakpanda,SL03040603,Kakpanda,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.244969,0.00303
+Polygon,Seitua,SL03040503,Seitua,Makpele,SL030405,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.422725,0.003931
+Polygon,Gbomotie,SL03040701,Gbomotie,Mono Sakrim,SL030407,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.18907,0.002
+Polygon,Selimeh,SL03040504,Selimeh,Makpele,SL030405,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.675821,0.011853
+Polygon,Bahoin,SL03040601,Bahoin,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.173582,0.001541
+Polygon,Kahaimoh,SL03040602,Kahaimoh,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.340211,0.004073
+Polygon,Kemoh,SL03040604,Kemoh,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.239545,0.002712
+Polygon,Sabba II,SL03041103,Sabba II,Sowa,SL030411,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.270535,0.004065
+Polygon,Korwa,SL03040605,Korwa,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.234074,0.001762
+Polygon,Lower Pemba,SL03040606,Lower Pemba,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.274935,0.002287
+Polygon,Seijeila,SL03040607,Seijeila,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.236209,0.002114
+Polygon,Taukunor,SL03040608,Taukunor,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.266939,0.002611
+Polygon,Sowa,SL03040708,Sowa,Mono Sakrim,SL030407,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.231698,0.002876
+Polygon,Upper Pemba,SL03040609,Upper Pemba,Malen,SL030406,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.224622,0.002479
+Polygon,Kemoh,SL03040702,Kemoh,Mono Sakrim,SL030407,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.430854,0.003597
+Polygon,Makpondo,SL03040703,Makpondo,Mono Sakrim,SL030407,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.116662,0.000789
+Polygon,Masanda Majagbe,SL03040704,Masanda Majagbe,Mono Sakrim,SL030407,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.291637,0.003723
+Polygon,Pullie,SL03040706,Pullie,Mono Sakrim,SL030407,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.17292,0.001191
+Polygon,Sitta,SL03040707,Sitta,Mono Sakrim,SL030407,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.253048,0.003294
+Polygon,Fassei,SL03040801,Fassei,Panga krim,SL030408,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.336735,0.003005
+Polygon,Nimima,SL01011205,Nimima,Penguia,SL010112,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.34013,0.006158
+Polygon,Pemagbie,SL03040802,Pemagbie,Panga krim,SL030408,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.185575,0.001009
+Polygon,Samba,SL03040803,Samba,Panga krim,SL030408,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.145593,0.000955
+Polygon,Somasa,SL03040804,Somasa,Panga krim,SL030408,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.189674,0.001752
+Polygon,Koilenga,SL03040901,Koilenga,Pejeh(Futa peje,SL030409,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.239161,0.0025
+Polygon,Pejeh East,SL03040902,Pejeh East,Pejeh(Futa peje,SL030409,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.311363,0.00392
+Polygon,Pejeh West,SL03040903,Pejeh West,Pejeh(Futa peje,SL030409,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.383247,0.004522
+Polygon,Kemokai,SL03041001,Kemokai,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.266381,0.004015
+Polygon,Kengo,SL03041002,Kengo,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.354637,0.005531
+Polygon,Kiazombo,SL03041003,Kiazombo,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.474785,0.003973
+Polygon,Mano - River,SL03041004,Mano - River,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.436201,0.008389
+Polygon,Massaquoi I,SL03041005,Massaquoi I,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.310775,0.004097
+Polygon,Massaquoi II,SL03041006,Massaquoi II,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.439313,0.007524
+Polygon,Moiwebu,SL03041007,Moiwebu,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.29628,0.00481
+Polygon,Sabba I,SL03041102,Sabba I,Sowa,SL030411,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.356219,0.006328
+Polygon,Upper Geoma,SL03041104,Upper Geoma,Sowa,SL030411,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.356732,0.005041
+Polygon,Zoker I,SL03041008,Zoker I,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.544189,0.013006
+Polygon,Zoker II,SL03041009,Zoker II,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.240465,0.00185
+Polygon,Zombo,SL03041010,Zombo,Soro Gbema,SL030410,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.390509,0.006449
+Polygon,Lower Geoma,SL03041101,Lower Geoma,Sowa,SL030411,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.281572,0.003646
+Polygon,Gba-Cha,SL03020101,Gba-Cha,Bendu-Cha,SL030201,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.310279,0.002784
+Polygon,Sokenteh,SL03020102,Sokenteh,Bendu-Cha,SL030201,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.337932,0.004459
+Polygon,Laylay,SL02030911,Laylay,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.13408,0.000706
+Polygon,Tissagbe,SL03020103,Tissagbe,Bendu-Cha,SL030201,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.270385,0.002834
+Polygon,Yallan-gbokie,SL03020104,Yallan-gbokie,Bendu-Cha,SL030201,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.464369,0.009105
+Polygon,Koimato,SL03020204,Koimato,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.328905,0.00551
+Polygon,Lanje,SL03020205,Lanje,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.249123,0.002986
+Polygon,Tamba,SL03020206,Tamba,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.263024,0.003514
+Polygon,Torma,SL03020207,Torma,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.318418,0.004662
+Polygon,Yargbe,SL03020208,Yargbe,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.300843,0.003802
+Polygon,Tun-Tun Sullay,SL03020706,Tun-Tun Sullay,Kwamebai Krim,SL030207,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.316552,0.005953
+Polygon,Yawma,SL03020209,Yawma,Bum,SL030202,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.291428,0.003406
+Polygon,Chepo,SL03020301,Chepo,Dema,SL030203,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.213224,0.000807
+Polygon,Dema,SL03020302,Dema,Dema,SL030203,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.233253,0.001733
+Polygon,Yoh,SL03020304,Yoh,Dema,SL030203,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.327972,0.003476
+Polygon,Yikie Karbay,SL03020707,Yikie Karbay,Kwamebai Krim,SL030207,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.240063,0.002205
+Polygon,Turtle Islands,SL03020303,Turtle Islands,Dema,SL030203,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.730108,0.00117
+Polygon,Babum,SL03020401,Babum,Imperri,SL030204,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.321015,0.004002
+Polygon,Bapus,SL03020402,Bapus,Imperri,SL030204,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.608812,0.008774
+Polygon,Bigo,SL03020403,Bigo,Imperri,SL030204,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.365523,0.006984
+Polygon,Baoma,SL03020801,Baoma,Nongoba Bullom,SL030208,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.253626,0.003115
+Polygon,Moimaligie,SL03020405,Moimaligie,Imperri,SL030204,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.750846,0.014219
+Polygon,Basiaka,SL03020501,Basiaka,Jong,SL030205,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.404814,0.004374
+Polygon,Bayengbe,SL03020502,Bayengbe,Jong,SL030205,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.13226,0.000961
+Polygon,Sokrapan,SL03020406,Sokrapan,Imperri,SL030204,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.868487,0.011786
+Polygon,Beyinga,SL03020503,Beyinga,Jong,SL030205,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.2423,0.002894
+Polygon,Falewuja,SL03020504,Falewuja,Jong,SL030205,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.332094,0.003506
+Polygon,Kumabeh-Kwe,SL03020505,Kumabeh-Kwe,Jong,SL030205,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.339853,0.003818
+Polygon,Landi-Ngere,SL03020506,Landi-Ngere,Jong,SL030205,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.464597,0.008583
+Polygon,Timbo,SL02011015,Timbo,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.1144,0.000708
+Polygon,Sopan-Cleveland,SL03020507,Sopan-Cleveland,Jong,SL030205,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.50583,0.004321
+Polygon,Tucker-Nyambe,SL03020508,Tucker-Nyambe,Jong,SL030205,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.362522,0.00302
+Polygon,Bewoni,SL03020602,Bewoni,Kpanda Kemo,SL030206,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.286718,0.002382
+Polygon,Gbonge,SL03020603,Gbonge,Kpanda Kemo,SL030206,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.276306,0.003432
+Polygon,Bamba,SL03020901,Bamba,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.259768,0.001631
+Polygon,Gonoh,SL03020902,Gonoh,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.483984,0.008488
+Polygon,Kamai,SL03020903,Kamai,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.357913,0.005164
+Polygon,Kwalloh,SL03020904,Kwalloh,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.376502,0.004488
+Polygon,Moh,SL03020905,Moh,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.405016,0.004382
+Polygon,Ngepay,SL03020906,Ngepay,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.319253,0.003136
+Polygon,Saama,SL03020907,Saama,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.245109,0.002085
+Polygon,Yoni,SL03020911,Yoni,Sittia,SL030209,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.389804,0.003216
+Polygon,Bakumba,SL03021001,Bakumba,Sogbeni,SL030210,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.187123,0.001125
+Polygon,Beyorgboh,SL03021002,Beyorgboh,Sogbeni,SL030210,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.243621,0.002474
+Polygon,Ndopie,SL03021003,Ndopie,Sogbeni,SL030210,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.263428,0.003358
+Polygon,Pengor,SL03021004,Pengor,Sogbeni,SL030210,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.37067,0.004188
+Polygon,Baryegbe,SL03021101,Baryegbe,Yawbeko,SL030211,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.248797,0.003297
+Polygon,Hahun,SL03021102,Hahun,Yawbeko,SL030211,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.200827,0.001263
+Polygon,Ketaway,SL03021103,Ketaway,Yawbeko,SL030211,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.268374,0.002995
+Polygon,Semabu,SL03030309,Semabu,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.200904,0.002158
+Polygon,Old Town,SL03011203,Old Town,Selenga,SL030112,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.255082,0.002976
+Polygon,Mobulie,SL03021104,Mobulie,Yawbeko,SL030211,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.425828,0.003251
+Polygon,Yorma,SL03021105,Yorma,Yawbeko,SL030211,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.364406,0.005037
+Polygon,Kawaya,SL03030103,Kawaya,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.454992,0.005412
+Polygon,Bonthe Town,SL03029101,Bonthe Town,Bonthe Urban,SL030291,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.311917,0.001237
+Polygon,Benduma,SL03030101,Benduma,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.36436,0.00679
+Polygon,Bambuibu Tommy,SL03030301,Bambuibu Tommy,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.247299,0.002337
+Polygon,Kigbai,SL03030104,Kigbai,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.401375,0.00631
+Polygon,Mani,SL03030105,Mani,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.351913,0.006687
+Polygon,Bongoya,SL03030302,Bongoya,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.296681,0.002638
+Polygon,Mokassi,SL03030106,Mokassi,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.381816,0.008006
+Polygon,Moseilolo,SL03030107,Moseilolo,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.280533,0.003461
+Polygon,Bellentin,SL03030201,Bellentin,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.396938,0.00384
+Polygon,Palima,SL03030108,Palima,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.510721,0.00673
+Polygon,Sembehun,SL03030109,Sembehun,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.369797,0.005551
+Polygon,Wonkifore,SL03030313,Wonkifore,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.202841,0.001918
+Polygon,Bumpeh,SL03030202,Bumpeh,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.3499,0.00429
+Polygon,Greema,SL03030203,Greema,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.31702,0.004746
+Polygon,Saiama,SL03030211,Saiama,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.197633,0.001187
+Polygon,Kassipoto,SL03030204,Kassipoto,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.384719,0.005002
+Polygon,Mamu,SL03030205,Mamu,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.392183,0.006744
+Polygon,Domboma,SL03030303,Domboma,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.215978,0.002719
+Polygon,Massah,SL03030206,Massah,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.347673,0.003765
+Polygon,Moforay,SL03030207,Moforay,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.373757,0.006395
+Polygon,Mokebbie,SL03030208,Mokebbie,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.283016,0.004272
+Polygon,Motobon,SL03030209,Motobon,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.367764,0.003729
+Polygon,Moyemi,SL03030210,Moyemi,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.375373,0.002576
+Polygon,Foya Tewei,SL03030304,Foya Tewei,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.201828,0.0022
+Polygon,Samu,SL03030212,Samu,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.390376,0.005647
+Polygon,Yengessa,SL03030213,Yengessa,Bumpeh,SL030302,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.539453,0.006534
+Polygon,Jayahun,SL03030305,Jayahun,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.219214,0.001964
+Polygon,Kenema,SL03030306,Kenema,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.284362,0.002466
+Polygon,Mano,SL03030307,Mano,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.084433,0.000452
+Polygon,Niti Korley,SL03030308,Niti Korley,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.284253,0.002533
+Polygon,Taninahun Gomoh,SL03030310,Taninahun Gomoh,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.315109,0.002347
+Polygon,Taninahun Kapuima,SL03030311,Taninahun Kapuima,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.280947,0.002594
+Polygon,Timindi,SL03030312,Timindi,Dasse,SL030303,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.2333,0.002129
+Polygon,Fallay,SL01021302,Fallay,Simbaru,SL010213,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.281681,0.003551
+Polygon,Fakoi,SL03030401,Fakoi,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.313318,0.003518
+Polygon,Gandorhun Central,SL03030402,Gandorhun Central,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.064763,0.000206
+Polygon,Kovella,SL03030403,Kovella,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.309751,0.004499
+Polygon,Sandaru,SL01020305,Sandaru,Gaura,SL010203,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.268711,0.004298
+Polygon,Kpangulgo,SL03030404,Kpangulgo,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.372757,0.004942
+Polygon,Kunyafoi,SL03030405,Kunyafoi,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.284413,0.002346
+Polygon,Maninga,SL03030406,Maninga,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.229077,0.00208
+Polygon,Njawa,SL03030407,Njawa,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.33665,0.004525
+Polygon,Songo,SL03030408,Songo,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.416029,0.006137
+Polygon,Mobeh,SL03030508,Mobeh,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.183237,0.001419
+Polygon,Tangbla,SL03030409,Tangbla,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.386608,0.002609
+Polygon,To - Ndambalenga,SL03030410,To - Ndambalenga,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.415158,0.005842
+Polygon,Mofindor,SL01010809,Mofindor,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.276723,0.003959
+Polygon,Tullu,SL03030411,Tullu,Fakunya,SL030304,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.319308,0.004959
+Polygon,Bendu A,SL03030501,Bendu A,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.189862,0.00076
+Polygon,Gbuallay,SL03030504,Gbuallay,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.259862,0.00179
+Polygon,Sembehun,SL01020306,Sembehun,Gaura,SL010203,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.515645,0.009894
+Polygon,Bendu B,SL03030502,Bendu B,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.346664,0.003632
+Polygon,Bumpetoke,SL03030503,Bumpetoke,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.209324,0.00131
+Polygon,Mano,SL03030507,Mano,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.127819,0.000868
+Polygon,Konolor,SL03030505,Konolor,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.352201,0.00416
+Polygon,Mambo,SL03030506,Mambo,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.41976,0.006158
+Polygon,Mofuss,SL03030509,Mofuss,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.270076,0.003126
+Polygon,Mokandor,SL03030510,Mokandor,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.399408,0.004866
+Polygon,Borley,SL01020501,Borley,Kandu Leppiama,SL010205,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.253234,0.00239
+Polygon,Mokebe,SL03030511,Mokebe,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.286385,0.002619
+Polygon,Mokobo,SL03030512,Mokobo,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.273703,0.002657
+Polygon,Rembe,SL03030517,Rembe,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.190119,0.001358
+Polygon,Mamanka,SL02040109,Mamanka,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.235917,0.001255
+Polygon,Mopaileh,SL03030513,Mopaileh,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.309026,0.002482
+Polygon,Moyah,SL03030514,Moyah,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.158072,0.001209
+Polygon,Moyibo,SL03030515,Moyibo,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.146281,0.001174
+Polygon,Ngiehun,SL03030516,Ngiehun,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.226638,0.002226
+Polygon,Tassoh,SL03030518,Tassoh,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.423516,0.005625
+Polygon,Moforay,SL03031002,Moforay,Kowa,SL030310,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.282785,0.002522
+Polygon,Thumba A,SL03030519,Thumba A,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.437123,0.003541
+Polygon,Thumba B,SL03030520,Thumba B,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.144917,0.000596
+Polygon,Tabe,SL03031007,Tabe,Kowa,SL030310,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.173152,0.001054
+Polygon,Yondu,SL03030521,Yondu,Kagboro,SL030305,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.4521,0.005187
+Polygon,Angigboya,SL03030601,Angigboya,Kaiyamba,SL030306,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.438595,0.007745
+Polygon,Koromboya,SL03030602,Koromboya,Kaiyamba,SL030306,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.497396,0.006059
+Polygon,Mofindoh,SL03031104,Mofindoh,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.20194,0.002523
+Polygon,Kpange,SL03030603,Kpange,Kaiyamba,SL030306,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.278188,0.0036
+Polygon,Lungili,SL03030604,Lungili,Kaiyamba,SL030306,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.326918,0.004051
+Polygon,Mobonor,SL03030803,Mobonor,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.360627,0.003794
+Polygon,Mendegelema,SL03030605,Mendegelema,Kaiyamba,SL030306,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.332654,0.004941
+Polygon,Waliwahun,SL03030607,Waliwahun,Kaiyamba,SL030306,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.425797,0.00717
+Polygon,Lombama,SL01011204,Lombama,Penguia,SL010112,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.278231,0.003252
+Polygon,Mosoe,SL03030606,Mosoe,Kaiyamba,SL030306,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.397101,0.005438
+Polygon,Kowama,SL03030701,Kowama,Kamajei,SL030307,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.354395,0.005087
+Polygon,Mogbuama,SL03030702,Mogbuama,Kamajei,SL030307,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.400068,0.008973
+Polygon,Ngiegombu,SL03030703,Ngiegombu,Kamajei,SL030307,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.310511,0.002574
+Polygon,Ngoahun,SL03030704,Ngoahun,Kamajei,SL030307,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.315312,0.006335
+Polygon,Tawovehun,SL03030706,Tawovehun,Kamajei,SL030307,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.556735,0.005919
+Polygon,Gibina,SL03030801,Gibina,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.164426,0.001489
+Polygon,Gondama,SL03030802,Gondama,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.211263,0.002662
+Polygon,Korjei,SL01020701,Korjei,Langrama,SL010207,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.258239,0.001759
+Polygon,Mokorewo,SL03030804,Mokorewo,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.458265,0.005464
+Polygon,Mongere,SL03030805,Mongere,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.389517,0.004377
+Polygon,Kpangbalia,SL03010204,Kpangbalia,Bagbo,SL030102,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.199758,0.002395
+Polygon,Mosongla,SL03030806,Mosongla,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.294494,0.003241
+Polygon,Mowoto,SL03030807,Mowoto,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.142461,0.001242
+Polygon,Senehun,SL03030808,Senehun,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.247423,0.003242
+Polygon,Taninihun,SL03030809,Taninihun,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.191551,0.002106
+Polygon,Tongieh,SL03030810,Tongieh,Kongbora,SL030308,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.298976,0.003426
+Polygon,Zone - 1,SL03030901,Zone - 1,Kori,SL030309,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.452148,0.008421
+Polygon,Zone - 2,SL03030902,Zone - 2,Kori,SL030309,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.440882,0.007373
+Polygon,Zone - 3,SL03030903,Zone - 3,Kori,SL030309,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.541791,0.012507
+Polygon,Zone - 4,SL03030904,Zone - 4,Kori,SL030309,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.495965,0.006597
+Polygon,Zone - 5,SL03030905,Zone - 5,Kori,SL030309,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.438119,0.00604
+Polygon,Zone - 6,SL03030906,Zone - 6,Kori,SL030309,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.525684,0.005973
+Polygon,Zone - 7,SL03030907,Zone - 7,Kori,SL030309,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.564304,0.007519
+Polygon,Kpandobu,SL03031001,Kpandobu,Kowa,SL030310,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.258563,0.002666
+Polygon,Fowai,SL01020104,Fowai,Dama,SL010201,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.32478,0.004984
+Polygon,Mosumana,SL03031003,Mosumana,Kowa,SL030310,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.256821,0.002591
+Polygon,Ngiyeiya,SL03031004,Ngiyeiya,Kowa,SL030310,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.151176,0.001306
+Polygon,Njagbahun,SL03031005,Njagbahun,Kowa,SL030310,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.327672,0.003602
+Polygon,Njama,SL03031006,Njama,Kowa,SL030310,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.192839,0.001544
+Polygon,Tawoveihun,SL03031008,Tawoveihun,Kowa,SL030310,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.308867,0.002851
+Polygon,Bengelloh,SL03031101,Bengelloh,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.34737,0.004534
+Polygon,Mokotawa,SL03031105,Mokotawa,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.299661,0.003499
+Polygon,Gbangbatoke,SL03031102,Gbangbatoke,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.607156,0.008073
+Polygon,Largoh,SL03031103,Largoh,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.36362,0.004894
+Polygon,Kukuna,SL02020114,Kukuna,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.11583,0.000624
+Polygon,Ndendemoya,SL03031106,Ndendemoya,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.308245,0.004497
+Polygon,Ngolala,SL03031107,Ngolala,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.294762,0.003181
+Polygon,Njagbahun,SL03031108,Njagbahun,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.311258,0.004527
+Polygon,Wulbange,SL03031109,Wulbange,Lower Banta,SL030311,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.3458,0.005066
+Polygon,Kentineh,SL03031201,Kentineh,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.412267,0.003918
+Polygon,Makera,SL03031203,Makera,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.238019,0.002565
+Polygon,Klajie,SL01020105,Klajie,Dama,SL010201,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.272724,0.003376
+Polygon,Masanka,SL03031204,Masanka,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.346701,0.004069
+Polygon,Masarakulay,SL03031205,Masarakulay,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.566214,0.00927
+Polygon,Motonkoh,SL03031208,Motonkoh,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.279469,0.003203
+Polygon,Mobureh,SL03031206,Mobureh,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.457663,0.008204
+Polygon,Motoni,SL03031207,Motoni,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.437353,0.005489
+Polygon,Kimaya,SL03010403,Kimaya,Boama,SL030104,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.195653,0.001753
+Polygon,Upper Ribbi,SL03031209,Upper Ribbi,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.478926,0.00528
+Polygon,Yoni,SL03031210,Yoni,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.324233,0.003876
+Polygon,Karteh,SL01020205,Karteh,Dodo,SL010202,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.24201,0.002703
+Polygon,Bembellor,SL03031301,Bembellor,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.254541,0.002062
+Polygon,Gambia,SL03031302,Gambia,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.162441,0.000779
+Polygon,Gbehan,SL03031303,Gbehan,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.331469,0.002799
+Polygon,Kamasunu,SL03031304,Kamasunu,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.257895,0.002037
+Polygon,Kambotoke,SL03031305,Kambotoke,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.397289,0.00546
+Polygon,Mendekelema,SL01020304,Mendekelema,Gaura,SL010203,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.353165,0.003663
+Polygon,Kebail,SL03031306,Kebail,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.241525,0.001478
+Polygon,Mandu,SL03031307,Mandu,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.315334,0.004139
+Polygon,Mye,SL03031308,Mye,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.138222,0.001131
+Polygon,Nonkoba,SL03031309,Nonkoba,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.326856,0.003039
+Polygon,Sahan,SL03031310,Sahan,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.160938,0.001128
+Polygon,Tombeh,SL03031311,Tombeh,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.16952,0.001258
+Polygon,Yapoma,SL03031312,Yapoma,Timdale,SL030313,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.209054,0.002333
+Polygon,Bei-Kelleh,SL03031401,Bei-Kelleh,Upper Banta,SL030314,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.294561,0.004074
+Polygon,Kenafallay,SL03031402,Kenafallay,Upper Banta,SL030314,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.259249,0.002849
+Polygon,Kepay,SL03031403,Kepay,Upper Banta,SL030314,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.215625,0.002576
+Polygon,Mogongbe,SL03031404,Mogongbe,Upper Banta,SL030314,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.212501,0.002506
+Polygon,Songbo,SL03031405,Songbo,Upper Banta,SL030314,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.356104,0.003898
+Polygon,Dakowa,SL01020101,Dakowa,Dama,SL010201,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.372492,0.006355
+Polygon,Danyadejo,SL01020102,Danyadejo,Dama,SL010201,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.435716,0.004981
+Polygon,Dassama,SL01020103,Dassama,Dama,SL010201,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.275543,0.004102
+Polygon,Lower Dabor,SL01020106,Lower Dabor,Dama,SL010201,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.338753,0.006184
+Polygon,Upper Dabor,SL01020107,Upper Dabor,Dama,SL010201,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.249148,0.002955
+Polygon,Bambara,SL01020201,Bambara,Dodo,SL010202,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.233607,0.002643
+Polygon,Bonya,SL01020202,Bonya,Dodo,SL010202,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.21106,0.002351
+Polygon,Bundoryama,SL01020203,Bundoryama,Dodo,SL010202,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.316402,0.004037
+Polygon,Gorama,SL01020204,Gorama,Dodo,SL010202,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.329142,0.005977
+Polygon,Korgay,SL01020206,Korgay,Dodo,SL010202,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.400791,0.005491
+Polygon,Seiwor,SL01020207,Seiwor,Dodo,SL010202,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.271523,0.00341
+Polygon,Giebu,SL01020301,Giebu,Gaura,SL010203,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.275036,0.004231
+Polygon,Joru,SL01020302,Joru,Gaura,SL010203,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.401924,0.006285
+Polygon,Kokoru,SL01020303,Kokoru,Gaura,SL010203,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.286479,0.004252
+Polygon,Biatong,SL01020401,Biatong,Gorama Mende,SL010204,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.562634,0.015177
+Polygon,Famanjo,SL01020402,Famanjo,Gorama Mende,SL010204,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.508106,0.011749
+Polygon,Kaklawa,SL01020403,Kaklawa,Gorama Mende,SL010204,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.467625,0.006893
+Polygon,Kualley,SL01020404,Kualley,Gorama Mende,SL010204,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.662524,0.020225
+Polygon,Gboro-Lokoma,SL01020502,Gboro-Lokoma,Kandu Leppiama,SL010205,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.375011,0.006153
+Polygon,Karga,SL01020503,Karga,Kandu Leppiama,SL010205,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.21273,0.002126
+Polygon,Sonnie,SL01020504,Sonnie,Kandu Leppiama,SL010205,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.476594,0.007839
+Polygon,Laminaia,SL02020115,Laminaia,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.189239,0.001553
+Polygon,Joi,SL01020601,Joi,Koya,SL010206,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.534399,0.008976
+Polygon,Koya Gbundohun,SL01020602,Koya Gbundohun,Koya,SL010206,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.440555,0.010741
+Polygon,Menima,SL01020603,Menima,Koya,SL010206,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.255277,0.001995
+Polygon,Serabu,SL01020604,Serabu,Koya,SL010206,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.24434,0.002946
+Polygon,Upper Koya,SL01020605,Upper Koya,Koya,SL010206,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.282788,0.004867
+Polygon,Sansangie,SL02020116,Sansangie,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.109212,0.000469
+Polygon,Njeiwoma,SL01020702,Njeiwoma,Langrama,SL010207,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.246671,0.002659
+Polygon,Bonya,SL01020801,Bonya,Lower Bambara,SL010208,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,1.030263,0.02656
+Polygon,Korjei Ngieya,SL01020805,Korjei Ngieya,Lower Bambara,SL010208,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.361201,0.004837
+Polygon,Seduya,SL02020117,Seduya,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.106622,0.000434
+Polygon,Fallay,SL01020802,Fallay,Lower Bambara,SL010208,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.49372,0.006325
+Polygon,Gboro,SL01020803,Gboro,Lower Bambara,SL010208,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.458828,0.005204
+Polygon,Korjei Buima,SL01020804,Korjei Buima,Lower Bambara,SL010208,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.214863,0.002612
+Polygon,Konjo Buiima,SL01020903,Konjo Buiima,Malegohun,SL010209,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.279161,0.003264
+Polygon,Nyawa,SL01020806,Nyawa,Lower Bambara,SL010208,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.340253,0.005234
+Polygon,Sei,SL01020807,Sei,Lower Bambara,SL010208,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.319363,0.005596
+Polygon,Hulorhun Njagbudor,SL01020901,Hulorhun Njagbudor,Malegohun,SL010209,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.209517,0.001953
+Polygon,Hulorhun Njeigor,SL01020902,Hulorhun Njeigor,Malegohun,SL010209,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.251452,0.003133
+Polygon,Konjo Njeigor,SL01020904,Konjo Njeigor,Malegohun,SL010209,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.213452,0.00172
+Polygon,Konjo Yematanga,SL01020905,Konjo Yematanga,Malegohun,SL010209,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.329779,0.004629
+Polygon,Lower Torgboma,SL01020906,Lower Torgboma,Malegohun,SL010209,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.192073,0.001842
+Polygon,Upper Torgboma,SL01020907,Upper Torgboma,Malegohun,SL010209,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.246105,0.003115
+Polygon,Bandawor,SL01021001,Bandawor,Niawa,SL010210,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.265823,0.002847
+Polygon,Kpatawa,SL01021002,Kpatawa,Niawa,SL010210,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.213562,0.002784
+Polygon,Gboo,SL01011105,Gboo,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.18677,0.001382
+Polygon,Mabondor,SL01021003,Mabondor,Niawa,SL010210,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.394057,0.005296
+Polygon,Niawa,SL01021004,Niawa,Niawa,SL010210,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.420471,0.007265
+Polygon,Vaama,SL01021005,Vaama,Niawa,SL010210,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.200979,0.002127
+Polygon,Faama,SL01021101,Faama,Nomo,SL010211,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.339192,0.005498
+Polygon,Ngiebu,SL01021102,Ngiebu,Nomo,SL010211,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.543631,0.011138
+Polygon,Dagbanya,SL01021201,Dagbanya,Nongowa,SL010212,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.479149,0.00655
+Polygon,Dakpana,SL01021202,Dakpana,Nongowa,SL010212,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.498159,0.00514
+Polygon,Kona Foiya,SL01021207,Kona Foiya,Nongowa,SL010212,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.366719,0.004237
+Polygon,Bundoryama,SL01021301,Bundoryama,Simbaru,SL010213,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.406695,0.007008
+Polygon,Gbo Kakajama B,SL01021203,Gbo Kakajama B,Nongowa,SL010212,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.455186,0.006072
+Polygon,Kona Kpindibu,SL01021208,Kona Kpindibu,Nongowa,SL010212,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.569503,0.012075
+Polygon,Gbo Lambayama B,SL01021204,Gbo Lambayama B,Nongowa,SL010212,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.405782,0.007842
+Polygon,Kagbado Kamboima,SL01021205,Kagbado Kamboima,Nongowa,SL010212,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.398069,0.007328
+Polygon,Kagbado Njeigbla,SL01021206,Kagbado Njeigbla,Nongowa,SL010212,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.189163,0.001912
+Polygon,Fonde,SL01021303,Fonde,Simbaru,SL010213,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.371961,0.006999
+Polygon,Yalenga,SL01021304,Yalenga,Simbaru,SL010213,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.29787,0.00459
+Polygon,Fallay,SL01021401,Fallay,Small Bo,SL010214,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.201957,0.001542
+Polygon,Gorama,SL01021402,Gorama,Small Bo,SL010214,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.366945,0.00573
+Polygon,Niawa,SL01021604,Niawa,Wandor,SL010216,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.334749,0.003268
+Polygon,Kamboma,SL01021403,Kamboma,Small Bo,SL010214,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.516587,0.011668
+Polygon,Niawa,SL01021404,Niawa,Small Bo,SL010214,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.447253,0.006612
+Polygon,Sowa,SL01021405,Sowa,Small Bo,SL010214,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.559194,0.009528
+Polygon,Songhai,SL01021605,Songhai,Wandor,SL010216,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.303201,0.004435
+Polygon,Daru,SL01021501,Daru,Tunkia,SL010215,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.512537,0.01265
+Polygon,Gegbwema,SL01021502,Gegbwema,Tunkia,SL010215,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.276703,0.00236
+Polygon,Giewoma,SL01021503,Giewoma,Tunkia,SL010215,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.336408,0.005326
+Polygon,Jewahun,SL01021505,Jewahun,Tunkia,SL010215,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.245813,0.002598
+Polygon,Tongorwa,SL01021606,Tongorwa,Wandor,SL010216,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.269426,0.004918
+Polygon,Shekaia,SL02020118,Shekaia,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.138071,0.000809
+Polygon,Kuawuma,SL01021506,Kuawuma,Tunkia,SL010215,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.590803,0.010181
+Polygon,Taninahun,SL01021507,Taninahun,Tunkia,SL010215,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.240213,0.002862
+Polygon,Boryongor,SL01021601,Boryongor,Wandor,SL010216,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.361329,0.005424
+Polygon,Gbogbeima,SL01021602,Gbogbeima,Wandor,SL010216,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.392437,0.004646
+Polygon,Kemoh,SL01021603,Kemoh,Wandor,SL010216,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.291291,0.003523
+Polygon,Airfield,SL01029101,Airfield,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.061361,0.000067
+Polygon,Gbo Kakajama A-Bur,SL01029102,Gbo Kakajama A-Bur,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.045862,0.000105
+Polygon,Gbo Kakajama A-Lum,SL01029103,Gbo Kakajama A-Lum,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.054046,0.000086
+Polygon,Bulima,SL01011201,Bulima,Penguia,SL010112,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.310028,0.004363
+Polygon,Gbo Lambayama A-Le,SL01029104,Gbo Lambayama A-Le,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.039893,0.000047
+Polygon,Gbo Lambayama A-Re,SL01029105,Gbo Lambayama A-Re,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.081216,0.000288
+Polygon,Gbo Kakajama A-Tec,SL01029106,Gbo Kakajama A-Tec,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.051203,0.000123
+Polygon,Gbo Kakajama A-Nja,SL01029107,Gbo Kakajama A-Nja,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.027286,0.000049
+Polygon,Gbo Kakajama A-Kpa,SL01029108,Gbo Kakajama A-Kpa,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.047017,0.000087
+Polygon,Gbo Kakajama A-Kis,SL01029109,Gbo Kakajama A-Kis,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.060861,0.000167
+Polygon,Sulaimania,SL02020119,Sulaimania,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.085095,0.000428
+Polygon,Gbo Kakajama A-Shi,SL01029110,Gbo Kakajama A-Shi,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.053833,0.00013
+Polygon,Gbo Lambayama A-Nd,SL01029112,Gbo Lambayama A-Nd,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.058412,0.000041
+Polygon,Gbo Lambayama A-Ny,SL01029111,Gbo Lambayama A-Ny,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.076112,0.000137
+Polygon,Gbo Lambayama A-Fo,SL01029113,Gbo Lambayama A-Fo,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.043743,0.000073
+Polygon,Gbo Kakajama A-Lam,SL01029114,Gbo Kakajama A-Lam,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.085148,0.000223
+Polygon,Gbo Lambayama A-Go,SL01029115,Gbo Lambayama A-Go,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.036119,0.000054
+Polygon,Gbo Lambayama A-RT,SL01029116,Gbo Lambayama A-RT,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.026212,0.000036
+Polygon,Kumatandu,SL01011203,Kumatandu,Penguia,SL010112,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.244186,0.002648
+Polygon,Gbo Lambayama A-Ko,SL01029117,Gbo Lambayama A-Ko,Kenema Town,SL010291,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.052016,0.000137
+Polygon,Baiwalla,SL01010101,Baiwalla,Dea,SL010101,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.33682,0.003119
+Polygon,Dodo,SL01010102,Dodo,Dea,SL010101,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.205654,0.002358
+Polygon,Sakiema,SL01010103,Sakiema,Dea,SL010101,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.228937,0.00195
+Polygon,Sienga,SL01010104,Sienga,Dea,SL010101,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.263573,0.004096
+Polygon,Mahera,SL02041210,Mahera,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.184868,0.001735
+Polygon,Bobor,SL01010201,Bobor,Jawie,SL010102,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.34765,0.004135
+Polygon,Kaio,SL01010202,Kaio,Jawie,SL010102,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.179229,0.001947
+Polygon,Lower Giebu,SL01010203,Lower Giebu,Jawie,SL010102,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.504162,0.008092
+Polygon,Lower Luyengeh,SL01010204,Lower Luyengeh,Jawie,SL010102,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.294986,0.003144
+Polygon,Mano,SL01010205,Mano,Jawie,SL010102,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.213825,0.002506
+Polygon,Teneba Bramaia,SL02020120,Teneba Bramaia,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.145409,0.000878
+Polygon,Sowa,SL01010206,Sowa,Jawie,SL010102,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.264303,0.003974
+Polygon,Upper Giebu,SL01010207,Upper Giebu,Jawie,SL010102,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.224479,0.002608
+Polygon,Upper Luyengeh,SL01010208,Upper Luyengeh,Jawie,SL010102,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.316137,0.002912
+Polygon,Dakaleley,SL01010301,Dakaleley,Kissi Kama,SL010103,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.176007,0.00145
+Polygon,Kama Teng,SL01010302,Kama Teng,Kissi Kama,SL010103,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.276745,0.003521
+Polygon,Gao,SL01010802,Gao,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.409876,0.007784
+Polygon,Kama Toh,SL01010303,Kama Toh,Kissi Kama,SL010103,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.294789,0.003616
+Polygon,Bumasadu,SL01010401,Bumasadu,Kissi Teng,SL010104,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.402892,0.004168
+Polygon,Konio,SL01010402,Konio,Kissi Teng,SL010104,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.288036,0.001793
+Polygon,Kundu,SL01010403,Kundu,Kissi Teng,SL010104,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.150229,0.001056
+Polygon,Mano-Sewallu,SL01010807,Mano-Sewallu,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.254965,0.003393
+Polygon,Lela,SL01010404,Lela,Kissi Teng,SL010104,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.611997,0.005273
+Polygon,Torli,SL01010405,Torli,Kissi Teng,SL010104,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.171087,0.001195
+Polygon,Bende Bengu,SL01010501,Bende Bengu,Kissi Tongi,SL010105,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.130778,0.000735
+Polygon,Tongi Tingi,SL01010504,Tongi Tingi,Kissi Tongi,SL010105,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.497701,0.011445
+Polygon,Konio,SL01010502,Konio,Kissi Tongi,SL010105,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.664347,0.005374
+Polygon,Pokorli,SL01010503,Pokorli,Kissi Tongi,SL010105,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.337896,0.003814
+Polygon,Bongre,SL01010601,Bongre,Kpeje Bongre,SL010106,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.191246,0.001615
+Polygon,Borkou,SL01010602,Borkou,Kpeje Bongre,SL010106,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.291678,0.001254
+Polygon,Falloh,SL01010603,Falloh,Kpeje Bongre,SL010106,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.247818,0.002963
+Polygon,Jorwu,SL01010604,Jorwu,Kpeje Bongre,SL010106,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.242784,0.00285
+Polygon,Manowa,SL01010605,Manowa,Kpeje Bongre,SL010106,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.111266,0.00069
+Polygon,Marwei,SL01010606,Marwei,Kpeje Bongre,SL010106,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.193337,0.001815
+Polygon,Mende Buima,SL01010808,Mende Buima,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.277231,0.002812
+Polygon,Seimaya,SL01010607,Seimaya,Kpeje Bongre,SL010106,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.315598,0.003565
+Polygon,Bunumbu,SL01010701,Bunumbu,Kpeje West,SL010107,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.345686,0.004613
+Polygon,Golama,SL01010702,Golama,Kpeje West,SL010107,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.277255,0.004464
+Polygon,Kpaewa,SL01010703,Kpaewa,Kpeje West,SL010107,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.161612,0.001481
+Polygon,Kpindima,SL01010704,Kpindima,Kpeje West,SL010107,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.191314,0.002282
+Polygon,Baoma,SL01010801,Baoma,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.28366,0.003975
+Polygon,Gbela,SL01010803,Gbela,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.441512,0.007102
+Polygon,Giehun,SL01010804,Giehun,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.32365,0.005876
+Polygon,Lower Kpombali,SL01010805,Lower Kpombali,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.291102,0.002846
+Polygon,Luawa Foguiya,SL01010806,Luawa Foguiya,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.55159,0.01058
+Polygon,Upper Kpombali,SL01010810,Upper Kpombali,Luawa,SL010108,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.409878,0.009409
+Polygon,Bamburu,SL01010901,Bamburu,Malema,SL010109,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.637048,0.016569
+Polygon,Njagbla,SL01010903,Njagbla,Malema,SL010109,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.425917,0.0063
+Polygon,Pelegbambeima,SL01010904,Pelegbambeima,Malema,SL010109,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.661884,0.014645
+Polygon,Upper Sami,SL01010905,Upper Sami,Malema,SL010109,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.312073,0.003044
+Polygon,Gbongre,SL01011001,Gbongre,Mandu,SL010110,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.260956,0.003383
+Polygon,Levuma Jeigbla,SL01011002,Levuma Jeigbla,Mandu,SL010110,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.283885,0.002673
+Polygon,Lower Kuiva,SL01011003,Lower Kuiva,Mandu,SL010110,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.267434,0.003566
+Polygon,Jonga,SL01011106,Jonga,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.247392,0.002533
+Polygon,Upper Kuiva,SL01011004,Upper Kuiva,Mandu,SL010110,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.452564,0.00718
+Polygon,Bombowa,SL01011101,Bombowa,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.225552,0.002263
+Polygon,Dan Sei,SL01011102,Dan Sei,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.181828,0.001572
+Polygon,Falley,SL01011103,Falley,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.246433,0.003414
+Polygon,Fauya,SL01011104,Fauya,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.246219,0.002372
+Polygon,Turaya,SL02020121,Turaya,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.214594,0.001443
+Polygon,Kargbu,SL01011107,Kargbu,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.263268,0.002687
+Polygon,Keimaya,SL01011108,Keimaya,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.252553,0.003226
+Polygon,Lower Nyawa,SL01011109,Lower Nyawa,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.196252,0.002105
+Polygon,Sei I,SL01011110,Sei I,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.233612,0.002126
+Polygon,Sei II,SL01011111,Sei II,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.195797,0.001833
+Polygon,Upper Nyawa,SL01011112,Upper Nyawa,Njaluahun,SL010111,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.166703,0.001296
+Polygon,Gbinle,SL02020201,Gbinle,Gbinle Dixing,SL020202,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.109272,0.000668
+Polygon,Bambara,SL01011301,Bambara,Upper Bambara,SL010113,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.297963,0.003342
+Polygon,Bomaru-guma,SL01011302,Bomaru-guma,Upper Bambara,SL010113,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.277186,0.002423
+Polygon,Goleiwoma,SL01011303,Goleiwoma,Upper Bambara,SL010113,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.366761,0.003936
+Polygon,Lower Baimba,SL03010701,Lower Baimba,Jaiama Bongor,SL030107,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.259695,0.002873
+Polygon,Mano,SL03010205,Mano,Bagbo,SL030102,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.27643,0.002738
+Polygon,Golu,SL01011304,Golu,Upper Bambara,SL010113,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.356921,0.003655
+Polygon,Korbu,SL01011305,Korbu,Upper Bambara,SL010113,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.24698,0.002334
+Polygon,Naiahun,SL01011306,Naiahun,Upper Bambara,SL010113,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.269616,0.00278
+Polygon,Bendu,SL01011401,Bendu,Yawei,SL010114,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.284478,0.004198
+Polygon,Kuiva Buima,SL01011402,Kuiva Buima,Yawei,SL010114,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.298727,0.002867
+Polygon,Kuiva Jagor,SL01011403,Kuiva Jagor,Yawei,SL010114,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.355198,0.004481
+Polygon,Kuivawa,SL01011404,Kuivawa,Yawei,SL010114,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.425719,0.004535
+Polygon,Damai,SL03010101,Damai,Badjia,SL030101,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.271537,0.003314
+Polygon,Fallay,SL03010102,Fallay,Badjia,SL030101,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.16315,0.001251
+Polygon,Kpallay,SL03010103,Kpallay,Badjia,SL030101,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.283668,0.003334
+Polygon,Niagorehun,SL03010206,Niagorehun,Bagbo,SL030102,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.226602,0.002181
+Polygon,Njargbahun,SL03010104,Njargbahun,Badjia,SL030101,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.369425,0.004683
+Polygon,Sei,SL03010105,Sei,Badjia,SL030101,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.260126,0.003193
+Polygon,Bum,SL03010201,Bum,Bagbo,SL030102,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.181771,0.001329
+Polygon,Gorapon,SL03010202,Gorapon,Bagbo,SL030102,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.229618,0.00197
+Polygon,Jimmi,SL03010203,Jimmi,Bagbo,SL030102,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.419457,0.008141
+Polygon,Tissana,SL03010207,Tissana,Bagbo,SL030102,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.286635,0.003838
+Polygon,Jongo,SL03010301,Jongo,Bagbwe(Bagbe),SL030103,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.311728,0.003819
+Polygon,Kemoh,SL03010302,Kemoh,Bagbwe(Bagbe),SL030103,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.249415,0.003205
+Polygon,Niawa,SL03010303,Niawa,Bagbwe(Bagbe),SL030103,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.201197,0.002087
+Polygon,Nyallay,SL03010304,Nyallay,Bagbwe(Bagbe),SL030103,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.372816,0.004986
+Polygon,Samawa,SL03010305,Samawa,Bagbwe(Bagbe),SL030103,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.299435,0.004925
+Polygon,Bambawo,SL03010401,Bambawo,Boama,SL030104,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.554159,0.007947
+Polygon,Fallay,SL03010402,Fallay,Boama,SL030104,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.21045,0.002877
+Polygon,Lower Pataloo,SL03010404,Lower Pataloo,Boama,SL030104,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.241903,0.003535
+Polygon,Upper Kama,SL03010707,Upper Kama,Jaiama Bongor,SL030107,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.322819,0.003629
+Polygon,Mawojeh,SL03010405,Mawojeh,Boama,SL030104,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.341814,0.003296
+Polygon,Njeima,SL03010406,Njeima,Boama,SL030104,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.329725,0.003557
+Polygon,Sonnah,SL03010407,Sonnah,Boama,SL030104,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.305594,0.004186
+Polygon,Upper Pataloo,SL03010408,Upper Pataloo,Boama,SL030104,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.461775,0.005447
+Polygon,Kemoh,SL03010902,Kemoh,Komboya,SL030109,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.269561,0.003654
+Polygon,Bongo,SL03010501,Bongo,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.192218,0.002055
+Polygon,Bumpe,SL03010502,Bumpe,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.771693,0.023559
+Polygon,Foya,SL03010503,Foya,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.25454,0.003119
+Polygon,Kpetema,SL03010504,Kpetema,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.603558,0.006918
+Polygon,Sahn,SL03010505,Sahn,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.391088,0.006529
+Polygon,Serabu,SL03010506,Serabu,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.322233,0.00523
+Polygon,Sewama,SL03010507,Sewama,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.398444,0.007173
+Polygon,Taninahun,SL03010508,Taninahun,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.557466,0.014876
+Polygon,Nyawa,SL03010603,Nyawa,Gbo,SL030106,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.333898,0.005557
+Polygon,Walihun,SL03010509,Walihun,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.45286,0.005316
+Polygon,Yengema,SL03010510,Yengema,Bumpe Ngao,SL030105,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.244985,0.002513
+Polygon,Gbo,SL03010601,Gbo,Gbo,SL030106,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.381825,0.006008
+Polygon,Maryu,SL03010602,Maryu,Gbo,SL030106,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.356393,0.004015
+Polygon,Lower Kama,SL03010702,Lower Kama,Jaiama Bongor,SL030107,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.381368,0.004563
+Polygon,Lower Niawa,SL03010703,Lower Niawa,Jaiama Bongor,SL030107,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.497266,0.007201
+Polygon,Nekpondo,SL03010704,Nekpondo,Jaiama Bongor,SL030107,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.145325,0.001093
+Polygon,Tongowa,SL03010705,Tongowa,Jaiama Bongor,SL030107,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.400224,0.00678
+Polygon,Upper Baimba,SL03010706,Upper Baimba,Jaiama Bongor,SL030107,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.227402,0.002748
+Polygon,Upper Niawa,SL03010708,Upper Niawa,Jaiama Bongor,SL030107,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.434329,0.007203
+Polygon,Korjeh,SL03010801,Korjeh,Kakua,SL030108,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.211547,0.001358
+Polygon,Kpandobu,SL03010802,Kpandobu,Kakua,SL030108,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.335256,0.004421
+Polygon,Mangaru,SL03010903,Mangaru,Komboya,SL030109,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.309151,0.006287
+Polygon,Sei,SL03010904,Sei,Komboya,SL030109,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.210337,0.002304
+Polygon,Nguabu,SL03010803,Nguabu,Kakua,SL030108,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.38224,0.004998
+Polygon,Nyallay,SL03010804,Nyallay,Kakua,SL030108,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.268009,0.003613
+Polygon,Nyawa,SL03010805,Nyawa,Kakua,SL030108,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.263202,0.00239
+Polygon,Keisua,SL03010901,Keisua,Komboya,SL030109,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.331031,0.004651
+Polygon,Kamakathie,SL02050303,Kamakathie,Kalansogoia,SL020503,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.197688,0.002136
+Polygon,Samamie,SL03010806,Samamie,Kakua,SL030108,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.279655,0.003321
+Polygon,Sewa,SL03010807,Sewa,Kakua,SL030108,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.356603,0.005049
+Polygon,Sindeh,SL03010808,Sindeh,Kakua,SL030108,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.184611,0.002364
+Polygon,Lunsar-Robis,SL02040810,Lunsar-Robis,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.052208,0.000116
+Polygon,Gao,SL03011001,Gao,Lugbu,SL030110,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.268446,0.004012
+Polygon,Kamba,SL03011002,Kamba,Lugbu,SL030110,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.271712,0.003045
+Polygon,Kargbevu,SL03011003,Kargbevu,Lugbu,SL030110,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.294598,0.004353
+Polygon,Kemoh,SL03011004,Kemoh,Lugbu,SL030110,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.255221,0.002743
+Polygon,Bainyawa,SL03011301,Bainyawa,Tikonko,SL030113,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.215265,0.002472
+Polygon,Magbao,SL03011005,Magbao,Lugbu,SL030110,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.331132,0.004182
+Polygon,Yorma,SL03011006,Yorma,Lugbu,SL030110,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.238155,0.002457
+Polygon,Kamakilla,SL02050304,Kamakilla,Kalansogoia,SL020503,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.28606,0.004087
+Polygon,Baimba,SL03011101,Baimba,Niawa Lenga,SL030111,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.325659,0.005063
+Polygon,Mambawa,SL03011302,Mambawa,Tikonko,SL030113,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.205066,0.002182
+Polygon,Lower Niawa,SL03011102,Lower Niawa,Niawa Lenga,SL030111,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.519361,0.005654
+Polygon,Upper Niawa,SL03011103,Upper Niawa,Niawa Lenga,SL030111,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.286154,0.003662
+Polygon,Yalenga,SL03011104,Yalenga,Niawa Lenga,SL030111,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.300517,0.005356
+Polygon,Kaduawo,SL03011201,Kaduawo,Selenga,SL030112,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.269781,0.001926
+Polygon,Mokpendeh,SL03011202,Mokpendeh,Selenga,SL030112,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.330194,0.003028
+Polygon,Morku,SL03011303,Morku,Tikonko,SL030113,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.27193,0.002885
+Polygon,Magbankitha,SL02040713,Magbankitha,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.197166,0.00145
+Polygon,Ngolamajie,SL03011304,Ngolamajie,Tikonko,SL030113,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.360381,0.006738
+Polygon,Njagbla I,SL03011305,Njagbla I,Tikonko,SL030113,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.265123,0.002093
+Polygon,Yarlenga,SL03011407,Yarlenga,Valunia,SL030114,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.354579,0.006003
+Polygon,Njagbla II,SL03011306,Njagbla II,Tikonko,SL030113,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.384976,0.004067
+Polygon,Deilenga,SL03011401,Deilenga,Valunia,SL030114,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.664232,0.02134
+Polygon,Kendebu,SL03011402,Kendebu,Valunia,SL030114,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.403049,0.006904
+Polygon,Central Kargoi,SL03011501,Central Kargoi,Wonde,SL030115,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.306098,0.003396
+Polygon,Seiwa,SL03011307,Seiwa,Tikonko,SL030113,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.826624,0.018728
+Polygon,Sendeh,SL03011308,Sendeh,Tikonko,SL030113,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.235166,0.002448
+Polygon,Magbengbeh,SL02040714,Magbengbeh,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.140795,0.000671
+Polygon,Lunia,SL03011403,Lunia,Valunia,SL030114,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.872674,0.021655
+Polygon,Ngovo,SL03011404,Ngovo,Valunia,SL030114,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.277829,0.003972
+Polygon,Seilenga,SL03011405,Seilenga,Valunia,SL030114,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.412637,0.005073
+Polygon,Lower Kargoi,SL03011502,Lower Kargoi,Wonde,SL030115,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.399542,0.005088
+Polygon,Manyeh,SL03011503,Manyeh,Wonde,SL030115,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.492855,0.010071
+Polygon,Upper Kargoi,SL03011504,Upper Kargoi,Wonde,SL030115,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.255928,0.003366
+Polygon,East Ward-Batiema,SL03019101,East Ward-Batiema,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.053326,0.000139
+Polygon,East Ward-Bumpeh-W,SL03019102,East Ward-Bumpeh-W,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.045313,0.000104
+Polygon,East Ward-Gbondo T,SL03019103,East Ward-Gbondo T,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.047497,0.000089
+Polygon,East Ward-Kindia T,SL03019104,East Ward-Kindia T,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.04649,0.000085
+Polygon,East Ward-Lower Sa,SL03019105,East Ward-Lower Sa,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.043405,0.000064
+Polygon,East Ward-Manjama,SL03019106,East Ward-Manjama,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.040705,0.000088
+Polygon,East Ward-Messima,SL03019107,East Ward-Messima,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.047801,0.000124
+Polygon,East Ward-Moriba T,SL03019109,East Ward-Moriba T,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.038045,0.000063
+Polygon,North Ward-Bo Numb,SL03019111,North Ward-Bo Numb,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.060372,0.0001
+Polygon,North Ward-Kissy Town,SL03019112,North Ward-Kissy Town,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.045686,0.000094
+Polygon,Makump,SL02040306,Makump,Dibia,SL020403,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.23244,0.002761
+Polygon,West Ward-Kandeh T,SL03019118,West Ward-Kandeh T,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.058687,0.000192
+Polygon,North Ward-Njai To,SL03019114,North Ward-Njai To,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.042102,0.000065
+Polygon,Kasokira,SL02050305,Kasokira,Kalansogoia,SL020503,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.341869,0.00444
+Polygon,North Ward-Reservation,SL03019115,North Ward-Reservation,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.077697,0.000274
+Polygon,West Ward-Lewabu -,SL03019119,West Ward-Lewabu -,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.042859,0.000107
+Polygon,Masaba,SL02050604,Masaba,Kunike Barina,SL020506,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.396135,0.007959
+Polygon,West Ward-Moriba T,SL03019120,West Ward-Moriba T,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.050962,0.000109
+Polygon,West Ward-Nikibu -,SL03019121,West Ward-Nikibu -,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.061073,0.000116
+Polygon,West Ward-Njagboim,SL03019122,West Ward-Njagboim,Bo Town,SL030191,Bo,SL0301,Southern,SL03,Sierra Leone,SL,0.053196,0.000114
+Polygon,Lower Massakong,SL02050101,Lower Massakong,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.528369,0.007081
+Polygon,Petifu Mayawa A,SL02050104,Petifu Mayawa A,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.446401,0.005876
+Polygon,Lower Polie,SL02050102,Lower Polie,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.47821,0.006482
+Polygon,Petifu Mayawa B,SL02050105,Petifu Mayawa B,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.152313,0.001296
+Polygon,Simiria,SL02050207,Simiria,Kafe Simiria,SL020502,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.313671,0.003384
+Polygon,Rogbalan,SL02040307,Rogbalan,Dibia,SL020403,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.194005,0.001462
+Polygon,Mayeppoh,SL02050103,Mayeppoh,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.638579,0.011469
+Polygon,Fuladugu,SL02050301,Fuladugu,Kalansogoia,SL020503,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.366563,0.005847
+Polygon,Marunia,SL02040721,Marunia,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.205973,0.001878
+Polygon,Petifu Mayeppoh,SL02050106,Petifu Mayeppoh,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.427064,0.006838
+Polygon,Upper Massakong,SL02050107,Upper Massakong,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.377713,0.005247
+Polygon,Upper Polie,SL02050108,Upper Polie,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.408022,0.003481
+Polygon,Yiben,SL02050110,Yiben,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.464221,0.006945
+Polygon,Yele Manowo,SL02050109,Yele Manowo,Gbonkolenken,SL020501,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.540952,0.005581
+Polygon,Mabonto,SL02050203,Mabonto,Kafe Simiria,SL020502,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.274972,0.004145
+Polygon,Kakallain,SL02050302,Kakallain,Kalansogoia,SL020503,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.267765,0.003873
+Polygon,Kabaia,SL02050201,Kabaia,Kafe Simiria,SL020502,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.58447,0.010266
+Polygon,Kamarugu,SL02050202,Kamarugu,Kafe Simiria,SL020502,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.499427,0.008862
+Polygon,Makelfa,SL02050204,Makelfa,Kafe Simiria,SL020502,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.602311,0.011865
+Polygon,Makontande,SL02050205,Makontande,Kafe Simiria,SL020502,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.409978,0.005113
+Polygon,Mayaso,SL02050206,Mayaso,Kafe Simiria,SL020502,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.271754,0.003624
+Polygon,Lower Section,SL02050306,Lower Section,Kalansogoia,SL020503,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.480907,0.007125
+Polygon,Upper Section,SL02050307,Upper Section,Kalansogoia,SL020503,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.513355,0.00948
+Polygon,Mabilafu,SL02050802,Mabilafu,Malal Mara,SL020508,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.298196,0.002604
+Polygon,Kumrabai,SL02050401,Kumrabai,Kholifa Mabang,SL020504,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.521245,0.0092
+Polygon,Bo Road,SL02050501,Bo Road,Kholifa Rowala,SL020505,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.101003,0.000353
+Polygon,Mabang,SL02050402,Mabang,Kholifa Mabang,SL020504,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.499264,0.007436
+Polygon,Marunia Sakie,SL02050404,Marunia Sakie,Kholifa Mabang,SL020504,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.425811,0.005563
+Polygon,Lal-Lenken,SL02050502,Lal-Lenken,Kholifa Rowala,SL020505,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.604565,0.00889
+Polygon,Makump,SL02050503,Makump,Kholifa Rowala,SL020505,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.365979,0.005376
+Polygon,Mamuntha,SL02050504,Mamuntha,Kholifa Rowala,SL020505,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.629444,0.012285
+Polygon,Mayatha,SL02050505,Mayatha,Kholifa Rowala,SL020505,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.376686,0.004056
+Polygon,Massebay,SL02040722,Massebay,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.205124,0.002624
+Polygon,Mayossoh,SL02050506,Mayossoh,Kholifa Rowala,SL020505,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.454006,0.005869
+Polygon,Old Magburaka,SL02050507,Old Magburaka,Kholifa Rowala,SL020505,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.066202,0.000218
+Polygon,Mamurie,SL02050603,Mamurie,Kunike Barina,SL020506,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.360695,0.006301
+Polygon,Makali,SL02050601,Makali,Kunike Barina,SL020506,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.58867,0.00608
+Polygon,Makong,SL02050602,Makong,Kunike Barina,SL020506,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.355984,0.006265
+Polygon,Masingbi,SL02050701,Masingbi,Kunike,SL020507,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.13747,0.001407
+Polygon,Mathonkara,SL02050605,Mathonkara,Kunike Barina,SL020506,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.275253,0.004106
+Polygon,Wonkibor,SL02050606,Wonkibor,Kunike Barina,SL020506,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.316766,0.003399
+Polygon,Lunsar-Madigbo,SL02040805,Lunsar-Madigbo,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.052718,0.000138
+Polygon,Makoba,SL02050803,Makoba,Malal Mara,SL020508,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.278209,0.00256
+Polygon,Rolal,SL02050702,Rolal,Kunike,SL020507,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.380197,0.005711
+Polygon,Sanda,SL02050703,Sanda,Kunike,SL020507,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.550195,0.012354
+Polygon,Lunsar-Mamanso,SL02040806,Lunsar-Mamanso,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.018048,0.000012
+Polygon,Semorkanie,SL02050704,Semorkanie,Kunike,SL020507,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.521925,0.007074
+Polygon,Thamah,SL02050705,Thamah,Kunike,SL020507,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.479503,0.009291
+Polygon,Thambaya,SL02050706,Thambaya,Kunike,SL020507,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.562428,0.010662
+Polygon,Wana,SL02050707,Wana,Kunike,SL020507,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.520387,0.009713
+Polygon,Lunsar-Mines,SL02040807,Lunsar-Mines,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.070455,0.000267
+Polygon,Yenkeh,SL02050708,Yenkeh,Kunike,SL020507,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.562814,0.009432
+Polygon,Kiamp Kakolo,SL02050801,Kiamp Kakolo,Malal Mara,SL020508,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.335055,0.003947
+Polygon,Lunsar-Old Town,SL02040808,Lunsar-Old Town,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.035441,0.00007
+Polygon,Malal,SL02050804,Malal,Malal Mara,SL020508,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.452415,0.004308
+Polygon,Numula 5,SL02030110,Numula 5,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.234505,0.002445
+Polygon,Manewa,SL02050805,Manewa,Malal Mara,SL020508,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.247122,0.003679
+Polygon,Mara,SL02050806,Mara,Malal Mara,SL020508,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.206075,0.002412
+Polygon,Matanka,SL02050807,Matanka,Malal Mara,SL020508,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.315344,0.003323
+Polygon,Sambaya,SL02050904,Sambaya,Sambaya,SL020509,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.489436,0.011474
+Polygon,Rochen,SL02050808,Rochen,Malal Mara,SL020508,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.361195,0.00491
+Polygon,Borowah,SL02050901,Borowah,Sambaya,SL020509,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.435461,0.008009
+Polygon,Maboboh Koray,SL02051001,Maboboh Koray,Tane,SL020510,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.31666,0.004462
+Polygon,Mapakie,SL02051004,Mapakie,Tane,SL020510,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.318034,0.003546
+Polygon,Buyan,SL02050902,Buyan,Sambaya,SL020509,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.743647,0.023096
+Polygon,Dayie,SL02050903,Dayie,Sambaya,SL020509,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.652972,0.014082
+Polygon,Makrugbeh,SL02051002,Makrugbeh,Tane,SL020510,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.471989,0.008239
+Polygon,Mange-bana,SL02051003,Mange-bana,Tane,SL020510,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.408297,0.004477
+Polygon,Mabureh Mende,SL02040205,Mabureh Mende,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.218532,0.002447
+Polygon,Mathunkara,SL02051005,Mathunkara,Tane,SL020510,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.403283,0.006559
+Polygon,Mange Morie,SL02040110,Mange Morie,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.145609,0.000887
+Polygon,Malanchor,SL02051105,Malanchor,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.450383,0.006947
+Polygon,Matotoka,SL02051006,Matotoka,Tane,SL020510,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.556769,0.009345
+Polygon,Makeni Rokefula,SL02051104,Makeni Rokefula,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.555283,0.010133
+Polygon,Foindu,SL02051101,Foindu,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.579422,0.008017
+Polygon,Gaindema,SL02051102,Gaindema,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,1.232653,0.012605
+Polygon,Macrogba,SL02051103,Macrogba,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.456756,0.006186
+Polygon,Magbengbe,SL02040206,Magbengbe,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.200682,0.001652
+Polygon,Malompor,SL02051106,Malompor,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.325254,0.003116
+Polygon,Petifu-Lower,SL02051111,Petifu-Lower,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.283355,0.002621
+Polygon,Karine,SL02040301,Karine,Dibia,SL020403,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.188198,0.001294
+Polygon,Marenka,SL02040111,Marenka,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.386775,0.005073
+Polygon,Minthormore,SL02040112,Minthormore,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.23454,0.003097
+Polygon,Mamaka,SL02051107,Mamaka,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.487287,0.008909
+Polygon,Masengbe,SL02051108,Masengbe,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.470163,0.004569
+Polygon,Kalangba,SL02040104,Kalangba,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.284927,0.003807
+Polygon,Mayira,SL02051109,Mayira,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.527458,0.006214
+Polygon,Petifu Upper,SL02051110,Petifu Upper,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.597942,0.009217
+Polygon,Ronietta,SL02051112,Ronietta,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.610115,0.012795
+Polygon,Kambia Morie,SL02040105,Kambia Morie,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.101699,0.000554
+Polygon,Konta Ferry,SL02040106,Konta Ferry,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.081235,0.000284
+Polygon,Mabombo,SL02040107,Mabombo,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.203347,0.002402
+Polygon,Makana,SL02040108,Makana,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.194529,0.001691
+Polygon,Yoni,SL02051113,Yoni,Yoni,SL020511,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.650686,0.008975
+Polygon,Barmoi,SL02040101,Barmoi,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.173319,0.001442
+Polygon,Kagbanthama,SL02040102,Kagbanthama,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.156039,0.00096
+Polygon,Kaiyeabor,SL02040103,Kaiyeabor,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.302856,0.003837
+Polygon,Romeni,SL02040114,Romeni,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.31272,0.002942
+Polygon,Rotifunk,SL02040115,Rotifunk,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.268727,0.00369
+Polygon,Yali-Sanda,SL02040116,Yali-Sanda,Bureh Kasseh Ma,SL020401,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.137548,0.000822
+Polygon,Kayembor,SL02040302,Kayembor,Dibia,SL020403,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.209208,0.001777
+Polygon,Foredugu,SL02040201,Foredugu,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.58134,0.006001
+Polygon,Filligungee,SL02020105,Filligungee,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.268916,0.003511
+Polygon,Gbaran Kamba,SL02040202,Gbaran Kamba,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.554155,0.007169
+Polygon,Kamasundu,SL02040203,Kamasundu,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.222936,0.001813
+Polygon,Mabureh Buya,SL02040204,Mabureh Buya,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.199472,0.001728
+Polygon,Konta Kargbo,SL02040303,Konta Kargbo,Dibia,SL020403,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.136683,0.001173
+Polygon,Manungbu,SL02040207,Manungbu,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.301537,0.003749
+Polygon,Robis,SL02040209,Robis,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.314191,0.00287
+Polygon,Rokel,SL02040210,Rokel,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.163299,0.001086
+Polygon,Rosint,SL02040211,Rosint,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.227425,0.002523
+Polygon,Worreh Mapoteh,SL02040212,Worreh Mapoteh,Buya Romende,SL020402,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.246971,0.002458
+Polygon,Mafonda,SL02040304,Mafonda,Dibia,SL020403,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.321775,0.005696
+Polygon,Makabari,SL02040305,Makabari,Dibia,SL020403,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.158643,0.001037
+Polygon,Foronkoya,SL02040401,Foronkoya,Kaffu Bullom,SL020404,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.282994,0.001924
+Polygon,Kasongha,SL02040402,Kasongha,Kaffu Bullom,SL020404,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.313046,0.002931
+Polygon,Lungi,SL02040403,Lungi,Kaffu Bullom,SL020404,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.277069,0.003104
+Polygon,Mahera,SL02040404,Mahera,Kaffu Bullom,SL020404,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.078348,0.000165
+Polygon,Yongro,SL02040408,Yongro,Kaffu Bullom,SL020404,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.133503,0.000885
+Polygon,Mamanki,SL02040405,Mamanki,Kaffu Bullom,SL020404,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.398707,0.002581
+Polygon,Mayaya,SL02040406,Mayaya,Kaffu Bullom,SL020404,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.175139,0.00135
+Polygon,Rosint,SL02040407,Rosint,Kaffu Bullom,SL020404,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.235379,0.001555
+Polygon,Fondu,SL02041202,Fondu,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.541998,0.006725
+Polygon,Magbandoma,SL02041208,Magbandoma,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.413444,0.004159
+Polygon,Benkia,SL02041201,Benkia,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.688459,0.003737
+Polygon,Gbabai,SL02041205,Gbabai,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.296376,0.002738
+Polygon,Foredugu,SL02041203,Foredugu,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.798322,0.010053
+Polygon,Futa,SL02041204,Futa,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.237743,0.002584
+Polygon,Kagbala A,SL02041206,Kagbala A,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.445217,0.006004
+Polygon,Kagbala B,SL02041207,Kagbala B,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.161163,0.001585
+Polygon,Magbeni,SL02041209,Magbeni,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.509933,0.005414
+Polygon,Marefa,SL02041211,Marefa,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.433041,0.007507
+Polygon,Matene,SL02041212,Matene,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.419607,0.008124
+Polygon,Rosarr,SL02041218,Rosarr,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.276578,0.0028
+Polygon,Mawoma,SL02041214,Mawoma,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.657343,0.009026
+Polygon,Robia,SL02041215,Robia,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.274546,0.00292
+Polygon,Rokel,SL02041216,Rokel,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.205829,0.001717
+Polygon,Sanda,SL02041219,Sanda,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.39657,0.003568
+Polygon,Tumba,SL02041220,Tumba,Koya,SL020412,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.390227,0.006127
+Polygon,Benkia,SL02040601,Benkia,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.257379,0.003289
+Polygon,Gbainty,SL02040602,Gbainty,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.461607,0.009184
+Polygon,Kamasondo,SL02040603,Kamasondo,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.672043,0.014301
+Polygon,Kantaya,SL02040604,Kantaya,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.216066,0.002209
+Polygon,Katonga,SL02040605,Katonga,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.366242,0.005707
+Polygon,Komrabai,SL02040606,Komrabai,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.214778,0.002186
+Polygon,Konta,SL02040607,Konta,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.26899,0.003936
+Polygon,Magbokorr,SL02040608,Magbokorr,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.227332,0.002459
+Polygon,Mannah,SL02040609,Mannah,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.445386,0.007436
+Polygon,Mapiterr,SL02040610,Mapiterr,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.281258,0.004556
+Polygon,Matheng,SL02040611,Matheng,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.323727,0.005071
+Polygon,Petifu,SL02040612,Petifu,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.201099,0.001532
+Polygon,Royema,SL02040613,Royema,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.24588,0.00289
+Polygon,Batpolon,SL02040701,Batpolon,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.237366,0.002566
+Polygon,Falaba,SL02040702,Falaba,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.046323,0.000104
+Polygon,Fenka,SL02040703,Fenka,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.305155,0.002824
+Polygon,Gberray Bana,SL02040704,Gberray Bana,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.204331,0.001479
+Polygon,Gberray Morie,SL02040705,Gberray Morie,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.455977,0.009543
+Polygon,Gberray Thunkara,SL02040706,Gberray Thunkara,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.247411,0.003358
+Polygon,Gbonko Mayira,SL02040707,Gbonko Mayira,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.257151,0.00237
+Polygon,Kabata,SL02040708,Kabata,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.242998,0.00281
+Polygon,Komrabai-Waterloo,SL02040709,Komrabai-Waterloo,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.210865,0.001917
+Polygon,Kondato,SL02040710,Kondato,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.050007,0.00013
+Polygon,Maboni,SL02040711,Maboni,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.247612,0.002148
+Polygon,Maforay,SL02040712,Maforay,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.107796,0.000741
+Polygon,Magbeni,SL02040715,Magbeni,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.255012,0.002847
+Polygon,Makorobolai,SL02040716,Makorobolai,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.261286,0.00342
+Polygon,Malal,SL02040717,Malal,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.319251,0.003493
+Polygon,Mamanso,SL02040718,Mamanso,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.238642,0.002007
+Polygon,Mapolie,SL02040719,Mapolie,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.224293,0.002634
+Polygon,Maronko,SL02040720,Maronko,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.182595,0.001278
+Polygon,Mathera,SL02040723,Mathera,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.250026,0.002667
+Polygon,Moria,SL02040724,Moria,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.264851,0.003407
+Polygon,Old Port Loko,SL02040725,Old Port Loko,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.073181,0.000225
+Polygon,Lunsar-Technical,SL02040811,Lunsar-Technical,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.067716,0.000166
+Polygon,Romaka,SL02040726,Romaka,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.304364,0.002802
+Polygon,Rosarr,SL02040727,Rosarr,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.136522,0.001004
+Polygon,Sanda,SL02040728,Sanda,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.026192,0.00003
+Polygon,Lunsar-Path Bana,SL02040809,Lunsar-Path Bana,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.07609,0.000281
+Polygon,Sendugu,SL02040729,Sendugu,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.075275,0.000334
+Polygon,Tauya,SL02040730,Tauya,Maforki,SL020407,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.237468,0.002031
+Polygon,Lunsar-Baipolon,SL02040801,Lunsar-Baipolon,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.019264,0.000021
+Polygon,Lunsar-Four Road -,SL02040802,Lunsar-Four Road -,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.032188,0.000055
+Polygon,Lunsar-Kenneday,SL02040803,Lunsar-Kenneday,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.014839,0.000009
+Polygon,Lunsar-Mabai,SL02040804,Lunsar-Mabai,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.043449,0.000098
+Polygon,Magbele,SL02040812,Magbele,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.297923,0.003943
+Polygon,Mange,SL02040813,Mange,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.474082,0.007638
+Polygon,Marampa,SL02040814,Marampa,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.447672,0.004085
+Polygon,Biki,SL02040901,Biki,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.29227,0.003114
+Polygon,Mawullay,SL02040815,Mawullay,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.357071,0.003928
+Polygon,Petifu Madina,SL02040816,Petifu Madina,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.348736,0.005892
+Polygon,Rogballan,SL02040817,Rogballan,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.21408,0.002908
+Polygon,Rolankonoh,SL02040818,Rolankonoh,Marampa,SL020408,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.307257,0.00314
+Polygon,Masimera,SL02040906,Masimera,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.220688,0.002225
+Polygon,Biss-Manika,SL02040902,Biss-Manika,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.446267,0.00392
+Polygon,Katick,SL02040903,Katick,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.325225,0.004204
+Polygon,Maconteh,SL02040904,Maconteh,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.583009,0.00578
+Polygon,Mamalikie,SL02040905,Mamalikie,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.260084,0.002852
+Polygon,Matuku,SL02040907,Matuku,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.407836,0.004268
+Polygon,Mayola-Thatha,SL02040908,Mayola-Thatha,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.465872,0.009387
+Polygon,Nonkoba,SL02040909,Nonkoba,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.23168,0.002658
+Polygon,Rokel,SL02040910,Rokel,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.222348,0.001908
+Polygon,Masien,SL02041010,Masien,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.222127,0.00167
+Polygon,Rokon/Komboya,SL02040911,Rokon/Komboya,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.530363,0.01005
+Polygon,Yoni-Pet,SL02040912,Yoni-Pet,Masimera,SL020409,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.499284,0.004933
+Polygon,Bankro,SL02041001,Bankro,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.176635,0.001433
+Polygon,Gbaneh-Loko,SL02041002,Gbaneh-Loko,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.265223,0.002889
+Polygon,Kokar,SL01030103,Kokar,Fiama,SL010301,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.226053,0.002993
+Polygon,Gbogbodo,SL02041003,Gbogbodo,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.560481,0.006699
+Polygon,Gbonko,SL02041004,Gbonko,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.326367,0.00457
+Polygon,Kantia,SL02041005,Kantia,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.45823,0.007874
+Polygon,Layamantmetank,SL02041006,Layamantmetank,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.290577,0.004211
+Polygon,Magbolontor,SL02041007,Magbolontor,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.240361,0.002398
+Polygon,Malkiya,SL02041008,Malkiya,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.127966,0.000945
+Polygon,Mankneh,SL02041009,Mankneh,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.087899,0.000444
+Polygon,Menthen,SL02041011,Menthen,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.454038,0.004783
+Polygon,Robis,SL02041012,Robis,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.339367,0.003981
+Polygon,Rotigbonko,SL02041013,Rotigbonko,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.230888,0.002384
+Polygon,Sendugu,SL02041014,Sendugu,Sanda Magbolont,SL020410,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.233717,0.002405
+Polygon,Gbaray Bana,SL02041101,Gbaray Bana,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.230353,0.00299
+Polygon,Kambia,SL02041102,Kambia,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.188473,0.001898
+Polygon,Kanu,SL02041103,Kanu,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.231873,0.002689
+Polygon,Kargbo,SL02041104,Kargbo,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.223387,0.00199
+Polygon,Konkorie,SL02041105,Konkorie,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.317686,0.003342
+Polygon,Mafonikay,SL02041106,Mafonikay,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.128971,0.000883
+Polygon,Magbafth,SL02041107,Magbafth,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.217158,0.001876
+Polygon,Magbapsa,SL02041108,Magbapsa,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.236618,0.002315
+Polygon,Sangbada,SL01030706,Sangbada,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.254507,0.00365
+Polygon,Malakuray,SL02041109,Malakuray,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.270042,0.003338
+Polygon,Maron,SL02041110,Maron,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.217321,0.002185
+Polygon,Robombeh,SL02041111,Robombeh,TMS,SL020411,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.145281,0.0011
+Polygon,Tasso Island,SL02040525,Tasso Island,Tasso Island,SL020405,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.113577,0.000622
+Polygon,Dumbia,SL01030101,Dumbia,Fiama,SL010301,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.278799,0.003955
+Polygon,Fiama,SL01030102,Fiama,Fiama,SL010301,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.391515,0.005881
+Polygon,Tensendakor,SL01031208,Tensendakor,Soa,SL010312,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.157333,0.001533
+Polygon,Kooma,SL01030104,Kooma,Fiama,SL010301,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.419789,0.007129
+Polygon,Yorkor,SL01030105,Yorkor,Fiama,SL010301,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.332246,0.003424
+Polygon,Gbikidakor,SL01030202,Gbikidakor,Gbane,SL010302,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.300548,0.004058
+Polygon,Kamara,SL01030203,Kamara,Gbane,SL010302,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.478212,0.003955
+Polygon,Maikandor,SL01030204,Maikandor,Gbane,SL010302,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.29493,0.004487
+Polygon,Gbane Kandor,SL01030301,Gbane Kandor,Gbane Kandor,SL010303,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.383713,0.005037
+Polygon,Gbane Kour,SL01030302,Gbane Kour,Gbane Kandor,SL010303,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.157135,0.001099
+Polygon,Gbane Tetema,SL01030303,Gbane Tetema,Gbane Kandor,SL010303,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.185094,0.001394
+Polygon,Gbendekor,SL01030304,Gbendekor,Gbane Kandor,SL010303,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.084988,0.000365
+Polygon,Yanbidu,SL01030305,Yanbidu,Gbane Kandor,SL010303,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.130768,0.000623
+Polygon,Bassia,SL02020102,Bassia,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.189686,0.001643
+Polygon,Banfinfeh,SL01030401,Banfinfeh,Gbense,SL010304,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.33725,0.005164
+Polygon,Banyafeh,SL01030402,Banyafeh,Gbense,SL010304,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.323878,0.004192
+Polygon,Banyakor,SL01030403,Banyakor,Gbense,SL010304,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.252559,0.00273
+Polygon,Moindefeh,SL01030404,Moindefeh,Gbense,SL010304,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.261224,0.003459
+Polygon,Moindekor,SL01030405,Moindekor,Gbense,SL010304,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.275604,0.002044
+Polygon,Dangbaidu,SL01030601,Dangbaidu,Kamara,SL010306,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.3059,0.001976
+Polygon,Gbondu,SL01030602,Gbondu,Kamara,SL010306,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.238706,0.002525
+Polygon,Kongofinja,SL01030603,Kongofinja,Kamara,SL010306,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.303653,0.003475
+Polygon,Sukudu,SL01030604,Sukudu,Kamara,SL010306,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.207922,0.002171
+Polygon,Dia,SL01030701,Dia,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.341151,0.005988
+Polygon,Kamara,SL01030702,Kamara,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.29028,0.002862
+Polygon,Kensay,SL01030703,Kensay,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.34004,0.004785
+Polygon,Lei,SL01030705,Lei,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.464503,0.007036
+Polygon,Tankoro,SL01030707,Tankoro,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.576729,0.009553
+Polygon,Tingi-Kor,SL01030708,Tingi-Kor,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.437136,0.009061
+Polygon,Yawai,SL01030709,Yawai,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.264018,0.003236
+Polygon,Kamiendor,SL01030801,Kamiendor,Mafindor,SL010308,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.240777,0.001663
+Polygon,Kutey,SL01030802,Kutey,Mafindor,SL010308,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.253233,0.002535
+Polygon,Mafindor,SL01030803,Mafindor,Mafindor,SL010308,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.263529,0.002501
+Polygon,Bafinfeh,SL01030901,Bafinfeh,Nimikoro,SL010309,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.401298,0.005145
+Polygon,Bandafafeh,SL01030902,Bandafafeh,Nimikoro,SL010309,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.421905,0.005813
+Polygon,Njama,SL01031301,Njama,Tankoro,SL010313,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.339233,0.006314
+Polygon,Gbogboafeh,SL01030903,Gbogboafeh,Nimikoro,SL010309,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.545404,0.011297
+Polygon,Jaiama,SL01030904,Jaiama,Nimikoro,SL010309,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.645802,0.018636
+Polygon,Masayiefeh,SL01030905,Masayiefeh,Nimikoro,SL010309,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.386014,0.005955
+Polygon,Gbense-Sina Town,SL01039101,Gbense-Sina Town,Koidu Town,SL010391,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.04746,0.000076
+Polygon,Bafinfeh,SL01031001,Bafinfeh,Nimiyama,SL010310,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.392887,0.007584
+Polygon,Bafinfeh,SL01031101,Bafinfeh,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.727489,0.015103
+Polygon,Gbense-Moindekor,SL01039102,Gbense-Moindekor,Koidu Town,SL010391,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.071438,0.000277
+Polygon,Dangbaidu,SL01031102,Dangbaidu,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.403874,0.006948
+Polygon,Njeikor,SL01031105,Njeikor,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.522717,0.012378
+Polygon,Foidu Mongor,SL01031201,Foidu Mongor,Soa,SL010312,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.266367,0.002469
+Polygon,Gbense-Moindefeh,SL01039103,Gbense-Moindefeh,Koidu Town,SL010391,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.052537,0.00014
+Polygon,Kokongokuma,SL01031202,Kokongokuma,Soa,SL010312,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.562925,0.014536
+Polygon,Maindu,SL01031203,Maindu,Soa,SL010312,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.313796,0.003001
+Polygon,Mofinkor,SL01031204,Mofinkor,Soa,SL010312,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.434815,0.009925
+Polygon,Sawa Buma,SL01031205,Sawa Buma,Soa,SL010312,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.238241,0.002993
+Polygon,Tensekor,SL01031207,Tensekor,Soa,SL010312,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.230088,0.002197
+Polygon,Tankoro,SL01031302,Tankoro,Tankoro,SL010313,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.475349,0.005178
+Polygon,Woafeh,SL01031303,Woafeh,Tankoro,SL010313,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.378073,0.002814
+Polygon,Bawadu,SL01031401,Bawadu,Toli,SL010314,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.270293,0.001758
+Polygon,Tankoro-Kinsey,SL01039104,Tankoro-Kinsey,Koidu Town,SL010391,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.078341,0.000267
+Polygon,Tankoro-New Sembeh,SL01039105,Tankoro-New Sembeh,Koidu Town,SL010391,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.071718,0.000202
+Polygon,Tankoro-Lebanon,SL01039106,Tankoro-Lebanon,Koidu Town,SL010391,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.043575,0.000114
+Polygon,Tankoro-Kwaquima,SL01039107,Tankoro-Kwaquima,Koidu Town,SL010391,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.062455,0.000212
+Polygon,Kunbulun 1,SL02030101,Kunbulun 1,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.218809,0.001731
+Polygon,Kunbulun 2,SL02030102,Kunbulun 2,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.222192,0.001241
+Polygon,Manan,SL02030104,Manan,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.4977,0.006438
+Polygon,Mawundea,SL02030105,Mawundea,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.545001,0.010289
+Polygon,Numula 1,SL02030106,Numula 1,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.322293,0.004226
+Polygon,Numula 2,SL02030107,Numula 2,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.240458,0.002883
+Polygon,Numula 3,SL02030108,Numula 3,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.126442,0.000886
+Polygon,Numula 4,SL02030109,Numula 4,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.05803,0.000218
+Polygon,Sinkunia,SL02030111,Sinkunia,Dembelia - Sink,SL020301,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.579612,0.007787
+Polygon,Darakuru,SL02030201,Darakuru,Diang,SL020302,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.460233,0.010983
+Polygon,Gbenekoro,SL02030202,Gbenekoro,Diang,SL020302,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.774999,0.018013
+Polygon,Kania,SL02030203,Kania,Diang,SL020302,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.617884,0.018772
+Polygon,Kondembaia,SL02030204,Kondembaia,Diang,SL020302,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.730993,0.020155
+Polygon,Lengekoro,SL02030205,Lengekoro,Diang,SL020302,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.3871,0.007432
+Polygon,Sokurala,SL02030206,Sokurala,Diang,SL020302,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.565094,0.01217
+Polygon,Balandugu,SL02030301,Balandugu,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.333308,0.00239
+Polygon,Dogoloya,SL02030302,Dogoloya,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.223983,0.002039
+Polygon,Fissaya I,SL02030303,Fissaya I,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.207718,0.002166
+Polygon,Fissaya II,SL02030304,Fissaya II,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.264949,0.003803
+Polygon,Nomokoya,SL02030912,Nomokoya,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.395792,0.007233
+Polygon,Gbentu III,SL02030305,Gbentu III,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.27047,0.00386
+Polygon,Herekor,SL02030306,Herekor,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.467589,0.005543
+Polygon,Kalia,SL02030307,Kalia,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.456162,0.008637
+Polygon,Kakallain,SL02030402,Kakallain,Kasunko,SL020304,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.441035,0.007979
+Polygon,Kamba,SL02030308,Kamba,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.514976,0.01213
+Polygon,Lagor,SL02030309,Lagor,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.455709,0.005998
+Polygon,Gbonkobor,SL02030401,Gbonkobor,Kasunko,SL020304,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.6607,0.018847
+Polygon,Musaia,SL02030310,Musaia,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.715651,0.007389
+Polygon,Sankan I,SL02030311,Sankan I,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.278228,0.004163
+Polygon,Sankan II,SL02030312,Sankan II,Folosaba Dembel,SL020303,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.440401,0.005763
+Polygon,Kaponpon,SL02031008,Kaponpon,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.314617,0.003816
+Polygon,Kasunko,SL02030403,Kasunko,Kasunko,SL020304,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.608005,0.010661
+Polygon,Kayaka,SL02030404,Kayaka,Kasunko,SL020304,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.456702,0.007824
+Polygon,Tamiso I,SL02030405,Tamiso I,Kasunko,SL020304,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.866881,0.016913
+Polygon,Tamiso II,SL02030406,Tamiso II,Kasunko,SL020304,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.606496,0.015622
+Polygon,Benadugu,SL02030501,Benadugu,Mongo,SL020305,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.385696,0.006633
+Polygon,Deldugu,SL02030502,Deldugu,Mongo,SL020305,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.692263,0.021104
+Polygon,Mankalia,SL02030503,Mankalia,Mongo,SL020305,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.492259,0.012999
+Polygon,Mongo I,SL02030504,Mongo I,Mongo,SL020305,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.881152,0.035303
+Polygon,Mongo II,SL02030505,Mongo II,Mongo,SL020305,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.597797,0.019326
+Polygon,Kalangba,SL02020202,Kalangba,Gbinle Dixing,SL020202,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.181859,0.001675
+Polygon,Morifindugu,SL02030506,Morifindugu,Mongo,SL020305,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,1.360825,0.044339
+Polygon,Kulor,SL02030601,Kulor,Neya,SL020306,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.293664,0.00394
+Polygon,Neya I,SL02030602,Neya I,Neya,SL020306,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,1.166391,0.031782
+Polygon,Neya II,SL02030603,Neya II,Neya,SL020306,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.748858,0.026095
+Polygon,Heremakono,SL02030802,Heremakono,Sengbe,SL020308,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.410957,0.009171
+Polygon,Nyedu,SL02030604,Nyedu,Neya,SL020306,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.921474,0.024855
+Polygon,Barawa,SL02030701,Barawa,Nieni,SL020307,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,1.024172,0.045221
+Polygon,Pampakoh,SL02031009,Pampakoh,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.242239,0.002513
+Polygon,Kalian,SL02030702,Kalian,Nieni,SL020307,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,1.295286,0.048879
+Polygon,Bendugu,SL02030801,Bendugu,Sengbe,SL020308,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.469658,0.007693
+Polygon,Wollay,SL02030704,Wollay,Nieni,SL020307,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.886102,0.035762
+Polygon,Yiffin,SL02030705,Yiffin,Nieni,SL020307,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.999785,0.038951
+Polygon,Semamaia,SL02031010,Semamaia,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.236219,0.002948
+Polygon,Koinadugu,SL02030803,Koinadugu,Sengbe,SL020308,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.375432,0.008428
+Polygon,Lower Kamadugu,SL02030804,Lower Kamadugu,Sengbe,SL020308,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.716066,0.022933
+Polygon,Bilimaia,SL02030808,Bilimaia,Sengbe,SL020308,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.030907,0.000057
+Polygon,Biribaia,SL02030901,Biribaia,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.073865,0.000405
+Polygon,Dara,SL02030902,Dara,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.143484,0.001011
+Polygon,Upper Kamadugu,SL02030805,Upper Kamadugu,Sengbe,SL020308,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.873035,0.031391
+Polygon,Yiraia,SL02030806,Yiraia,Sengbe,SL020308,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.645438,0.017847
+Polygon,Yogomaia,SL02030807,Yogomaia,Sengbe,SL020308,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.039757,0.000075
+Polygon,Falaba,SL02030903,Falaba,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.567298,0.016069
+Polygon,Fudea,SL02030904,Fudea,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.451415,0.009908
+Polygon,Ganya,SL02030905,Ganya,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.471592,0.010863
+Polygon,Gberia Fotombu,SL02030906,Gberia Fotombu,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.365338,0.005908
+Polygon,Gberia-Timbako,SL02030907,Gberia-Timbako,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.982139,0.036066
+Polygon,Kaliyereh,SL02030908,Kaliyereh,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.258209,0.003687
+Polygon,Kambaia,SL02030909,Kambaia,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.429575,0.005334
+Polygon,Koindu-Kura,SL02030910,Koindu-Kura,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.052997,0.00015
+Polygon,Sonkoya,SL02030913,Sonkoya,Sulima,SL020309,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.449479,0.006783
+Polygon,Bafodia,SL02031001,Bafodia,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.806362,0.017275
+Polygon,Kadanso,SL02031002,Kadanso,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.254364,0.004406
+Polygon,Kakoya,SL02031003,Kakoya,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.303063,0.005727
+Polygon,Mambolo,SL02020402,Mambolo,Mambolo,SL020204,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.176994,0.00136
+Polygon,Kamanikie,SL02031004,Kamanikie,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.574084,0.009394
+Polygon,Kamayortortor,SL02031005,Kamayortortor,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.305497,0.003722
+Polygon,Kambalia,SL02031006,Kambalia,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.605472,0.014835
+Polygon,Kambia,SL02031007,Kambia,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.179403,0.001283
+Polygon,Taelia,SL02031011,Taelia,Wara Wara Bafod,SL020310,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.570436,0.011313
+Polygon,Zone 1,SL02031101,Zone 1,Wara Wara Yagal,SL020311,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.270606,0.003888
+Polygon,Zone 2,SL02031102,Zone 2,Wara Wara Yagal,SL020311,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.351607,0.005502
+Polygon,Zone 3,SL02031103,Zone 3,Wara Wara Yagal,SL020311,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.112885,0.0005
+Polygon,Zone 4,SL02031104,Zone 4,Wara Wara Yagal,SL020311,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.265712,0.002187
+Polygon,Zone 5,SL02031105,Zone 5,Wara Wara Yagal,SL020311,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.315445,0.004454
+Polygon,Zone 6,SL02031106,Zone 6,Wara Wara Yagal,SL020311,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.488368,0.00699
+Polygon,Zone 7,SL02031107,Zone 7,Wara Wara Yagal,SL020311,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.302136,0.003446
+Polygon,Kabakeh/Balandugu,SL02010103,Kabakeh/Balandugu,Biriwa,SL020101,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.609731,0.008608
+Polygon,Bumban,SL02010101,Bumban,Biriwa,SL020101,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.781751,0.012674
+Polygon,Bumbandain,SL02010102,Bumbandain,Biriwa,SL020101,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.468816,0.006573
+Polygon,Karassa,SL02010106,Karassa,Biriwa,SL020101,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.502224,0.007946
+Polygon,Kagbankuna,SL02010104,Kagbankuna,Biriwa,SL020101,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.6823,0.016138
+Polygon,Kamabai,SL02010105,Kamabai,Biriwa,SL020101,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.673846,0.008657
+Polygon,Kamaranka,SL02010303,Kamaranka,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.133453,0.000915
+Polygon,Karina,SL02010107,Karina,Biriwa,SL020101,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.925087,0.00601
+Polygon,Kayonkoro,SL02010108,Kayonkoro,Biriwa,SL020101,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.387237,0.006451
+Polygon,Makumray A,SL02010308,Makumray A,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.16558,0.001659
+Polygon,Kafala,SL02010201,Kafala,Bombali Sebora,SL020102,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.526813,0.003467
+Polygon,Kagbaran Dokom B,SL02010202,Kagbaran Dokom B,Bombali Sebora,SL020102,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.458547,0.003878
+Polygon,Makumray B,SL02010309,Makumray B,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.142884,0.000986
+Polygon,Konta,SL02010203,Konta,Bombali Sebora,SL020102,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.351791,0.00445
+Polygon,Matotoka,SL02010204,Matotoka,Bombali Sebora,SL020102,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.478967,0.00965
+Polygon,Gbenkfay,SL02010301,Gbenkfay,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.256649,0.002194
+Polygon,Gbonkobana,SL02010302,Gbonkobana,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.176851,0.001461
+Polygon,Kambia,SL02010304,Kambia,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.26059,0.002453
+Polygon,Kayourgbor,SL02010305,Kayourgbor,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.428769,0.004459
+Polygon,Laminaya,SL02010306,Laminaya,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.340369,0.003183
+Polygon,Makulon,SL02010307,Makulon,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.464243,0.003987
+Polygon,Rogberay,SL02010310,Rogberay,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.287979,0.002752
+Polygon,Romaneh,SL02010311,Romaneh,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.299511,0.002295
+Polygon,Royeama A,SL02010312,Royeama A,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.139458,0.001185
+Polygon,Royeama B,SL02010313,Royeama B,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.132954,0.001048
+Polygon,Sakuma A,SL02010314,Sakuma A,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.185686,0.001448
+Polygon,Sakuma B,SL02010315,Sakuma B,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.135161,0.000965
+Polygon,Sendugu A,SL02010316,Sendugu A,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.16808,0.001187
+Polygon,Sendugu B,SL02010317,Sendugu B,Gbanti Kamarank,SL020103,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.157693,0.00065
+Polygon,Garanganwa,SL02010401,Garanganwa,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.561325,0.005912
+Polygon,Makarihiteh,SL02010409,Makarihiteh,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.155045,0.001327
+Polygon,Makump,SL02010411,Makump,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.189048,0.001876
+Polygon,Gbendembu,SL02010402,Gbendembu,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.345553,0.004218
+Polygon,Kalangba,SL02010403,Kalangba,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.291008,0.003094
+Polygon,Kania,SL02010404,Kania,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.26936,0.004024
+Polygon,Makeregbohun,SL02010410,Makeregbohun,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.225113,0.001794
+Polygon,Lobanga,SL02010405,Lobanga,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.367056,0.003911
+Polygon,Lohindie,SL02010406,Lohindie,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.486373,0.007071
+Polygon,Loko-Madina,SL02010407,Loko-Madina,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.223724,0.001931
+Polygon,Makai,SL02010408,Makai,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.266124,0.003065
+Polygon,Mamaka,SL02010412,Mamaka,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.444912,0.007645
+Polygon,Mamukay,SL02010413,Mamukay,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.571472,0.007181
+Polygon,Tanyehun,SL02010419,Tanyehun,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.279844,0.002689
+Polygon,Masongbo,SL02010414,Masongbo,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.336162,0.00297
+Polygon,Matehun,SL02010415,Matehun,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.143888,0.000951
+Polygon,Mayorthan,SL02010416,Mayorthan,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.241791,0.001676
+Polygon,Sahun,SL02010417,Sahun,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.26066,0.001785
+Polygon,Tambiama,SL02010418,Tambiama,Gbendembu Ngowa,SL020104,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.218767,0.001788
+Polygon,Batkanu,SL02010501,Batkanu,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.35384,0.003209
+Polygon,Mafonda,SL02010502,Mafonda,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.607139,0.006058
+Polygon,Magbaingba,SL02010503,Magbaingba,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.269782,0.003211
+Polygon,Magbanamba,SL02010504,Magbanamba,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.320828,0.002406
+Polygon,Makaiba,SL02010505,Makaiba,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.360813,0.003441
+Polygon,Makayrembay,SL02010506,Makayrembay,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.168331,0.00112
+Polygon,Simbaya,SL02010512,Simbaya,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.235567,0.001777
+Polygon,Mandawahun,SL02010507,Mandawahun,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.380447,0.004934
+Polygon,Manyakoi,SL02010508,Manyakoi,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.299971,0.003582
+Polygon,Mayankay,SL02010509,Mayankay,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.184115,0.001531
+Polygon,Robaka,SL02010510,Robaka,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.196957,0.001483
+Polygon,Rotha-Tha,SL02010511,Rotha-Tha,Libeisaygahun,SL020105,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.194075,0.001517
+Polygon,Hunduwa,SL02010601,Hunduwa,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.267378,0.002174
+Polygon,Kababala,SL02010602,Kababala,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.246889,0.002642
+Polygon,Kagberay,SL02010603,Kagberay,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.264289,0.002979
+Polygon,Kawungulu,SL02010604,Kawungulu,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.366842,0.002253
+Polygon,Kathegeya,SL02010802,Kathegeya,Paki Masabong,SL020108,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.291045,0.00275
+Polygon,Makendema,SL02010605,Makendema,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.416797,0.006178
+Polygon,Mambiama,SL02010606,Mambiama,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.42869,0.008222
+Polygon,Manjahagha,SL02010607,Manjahagha,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.163158,0.000968
+Polygon,Sokudala,SL02010608,Sokudala,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.095447,0.000442
+Polygon,Yana,SL02010609,Yana,Magbaimba Ndorh,SL020106,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.311565,0.002414
+Polygon,Gborbana,SL02010701,Gborbana,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.327069,0.002425
+Polygon,Mabanta,SL02010702,Mabanta,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.240083,0.001966
+Polygon,Magbenteh,SL02010703,Magbenteh,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.118567,0.000939
+Polygon,Mangay,SL02010704,Mangay,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.298889,0.002659
+Polygon,Mankene,SL02010705,Mankene,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.50667,0.009647
+Polygon,Masongbo A,SL02010706,Masongbo A,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.221851,0.001489
+Polygon,Rosint,SL02010709,Rosint,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.243116,0.001742
+Polygon,Masongbo B,SL02010707,Masongbo B,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.658183,0.005865
+Polygon,Punthun,SL02010708,Punthun,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.300504,0.003042
+Polygon,Kathanthan,SL02010801,Kathanthan,Paki Masabong,SL020108,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.237775,0.002827
+Polygon,Tonkoba,SL02010710,Tonkoba,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.753435,0.009738
+Polygon,Yainkassa,SL02010711,Yainkassa,Makari Gbanti,SL020107,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.76262,0.012952
+Polygon,Mapaki,SL02010803,Mapaki,Paki Masabong,SL020108,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.31031,0.003509
+Polygon,Masabong,SL02010804,Masabong,Paki Masabong,SL020108,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.332674,0.003627
+Polygon,Mayagba,SL02010805,Mayagba,Paki Masabong,SL020108,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.237445,0.002546
+Polygon,Rosanda,SL02010806,Rosanda,Paki Masabong,SL020108,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.342442,0.006464
+Polygon,Maparay,SL02011013,Maparay,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.175381,0.001358
+Polygon,Binkolo,SL02010901,Binkolo,Safroko Limba,SL020109,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.569804,0.008817
+Polygon,Bombali Bana,SL02010902,Bombali Bana,Safroko Limba,SL020109,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.474069,0.006853
+Polygon,Kabonka,SL02010903,Kabonka,Safroko Limba,SL020109,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.240545,0.002419
+Polygon,Kasengbeh,SL02010904,Kasengbeh,Safroko Limba,SL020109,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.362817,0.004733
+Polygon,Kayassi,SL02010905,Kayassi,Safroko Limba,SL020109,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.30736,0.00359
+Polygon,Mabamba,SL02010906,Mabamba,Safroko Limba,SL020109,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.31131,0.004167
+Polygon,Masapi,SL02010907,Masapi,Safroko Limba,SL020109,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.246399,0.002239
+Polygon,Banka,SL02011001,Banka,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.160197,0.001339
+Polygon,Benia,SL02011002,Benia,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.274711,0.002717
+Polygon,Kaindema,SL02011003,Kaindema,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.237403,0.001888
+Polygon,Kamalu,SL02011004,Kamalu,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.060482,0.000231
+Polygon,Kania,SL02011005,Kania,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.136094,0.00072
+Polygon,Kindia,SL02011006,Kindia,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.461361,0.01021
+Polygon,Laminaya,SL02011007,Laminaya,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.342894,0.005494
+Polygon,Rothatha,SL02011014,Rothatha,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.179485,0.001536
+Polygon,Madina,SL02011008,Madina,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.415948,0.006907
+Polygon,Maharibo,SL02011009,Maharibo,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.319118,0.005369
+Polygon,Makapa,SL02011010,Makapa,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.271037,0.003301
+Polygon,Makwie Loko,SL02011011,Makwie Loko,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.333594,0.003867
+Polygon,Manathi,SL02011012,Manathi,Sanda Loko,SL020110,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.26046,0.003751
+Polygon,Kalangba,SL02011101,Kalangba,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.262016,0.001994
+Polygon,Kukuna,SL02011102,Kukuna,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.227386,0.002651
+Polygon,Marampa,SL02011103,Marampa,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.224108,0.002508
+Polygon,Masisan,SL02011104,Masisan,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.312512,0.004463
+Polygon,Mateboi,SL02011105,Mateboi,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.300191,0.00416
+Polygon,Rogbin,SL02011106,Rogbin,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.246525,0.003095
+Polygon,Rogboreh,SL02011107,Rogboreh,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.192806,0.001373
+Polygon,Rosos,SL02011108,Rosos,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.361792,0.005067
+Polygon,Sendugu,SL02011109,Sendugu,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.125511,0.001007
+Polygon,Yankabala,SL02011110,Yankabala,Sanda Tendaran,SL020111,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.328493,0.003216
+Polygon,Bugami,SL02020103,Bugami,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.285238,0.003575
+Polygon,Kamakwie,SL02011201,Kamakwie,Sella Limba,SL020112,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.177557,0.001265
+Polygon,Kamankoh,SL02011202,Kamankoh,Sella Limba,SL020112,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.520461,0.00951
+Polygon,Kayimbor,SL02011203,Kayimbor,Sella Limba,SL020112,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.597881,0.009087
+Polygon,Magbonkoni I,SL02011204,Magbonkoni I,Sella Limba,SL020112,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.401459,0.003877
+Polygon,Magbonkoni II,SL02011205,Magbonkoni II,Sella Limba,SL020112,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.342256,0.004943
+Polygon,Manonkoh,SL02011206,Manonkoh,Sella Limba,SL020112,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.199928,0.002086
+Polygon,Samia,SL02011207,Samia,Sella Limba,SL020112,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.384066,0.004417
+Polygon,Dugutha,SL02011301,Dugutha,Tambakha,SL020113,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,1.409748,0.068639
+Polygon,Makari Gbanti - Mi,SL02019110,Makari Gbanti - Mi,Makeni Town,SL020191,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.039868,0.000078
+Polygon,Moria,SL02011302,Moria,Tambakha,SL020113,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.549034,0.016045
+Polygon,Paramount Chief Se,SL02011303,Paramount Chief Se,Tambakha,SL020113,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,1.172842,0.042577
+Polygon,Simibue,SL02011304,Simibue,Tambakha,SL020113,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,1.052792,0.04738
+Polygon,Thalla,SL02011305,Thalla,Tambakha,SL020113,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.762717,0.028
+Polygon,Bombali Sebora - B,SL02019101,Bombali Sebora - B,Makeni Town,SL020191,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.033816,0.000047
+Polygon,Makari Gbanti -Mas,SL02019111,Makari Gbanti -Mas,Makeni Town,SL020191,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.026412,0.00004
+Polygon,Bombali Sebora - K,SL02019102,Bombali Sebora - K,Makeni Town,SL020191,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.125722,0.000545
+Polygon,Bombali Sebora - Makeni,SL02019103,Bombali Sebora - Makeni,Makeni Town,SL020191,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.120668,0.000354
+Polygon,Bombali Sebora - R,SL02019107,Bombali Sebora - R,Makeni Town,SL020191,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.055236,0.000137
+Polygon,Bombali Sebora - T,SL02019108,Bombali Sebora - T,Makeni Town,SL020191,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.043114,0.000106
+Polygon,Bombali Sebora - W,SL02019109,Bombali Sebora - W,Makeni Town,SL020191,Bombali,SL0201,Northern,SL02,Sierra Leone,SL,0.039553,0.00007
+Polygon,Banguraia,SL02020101,Banguraia,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.146362,0.000936
+Polygon,Fortumboyie,SL02020106,Fortumboyie,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.302329,0.003211
+Polygon,Gberekhuray,SL02020107,Gberekhuray,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.292912,0.003086
+Polygon,Gbolon,SL02020108,Gbolon,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.195405,0.001903
+Polygon,Kabaya,SL02020109,Kabaya,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.289314,0.001683
+Polygon,Kanku Bramaia,SL02020110,Kanku Bramaia,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.195309,0.001691
+Polygon,Kua Bramaia,SL02020112,Kua Bramaia,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.135515,0.000799
+Polygon,Katalan,SL02020203,Katalan,Gbinle Dixing,SL020202,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.24072,0.001816
+Polygon,Mafaray,SL02020204,Mafaray,Gbinle Dixing,SL020202,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.216899,0.002076
+Polygon,Maton,SL02020205,Maton,Gbinle Dixing,SL020202,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.200359,0.001999
+Polygon,Rogberay,SL02020206,Rogberay,Gbinle Dixing,SL020202,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.218293,0.00208
+Polygon,Sanda,SL02020207,Sanda,Gbinle Dixing,SL020202,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.227445,0.002677
+Polygon,Tawuya,SL02020208,Tawuya,Gbinle Dixing,SL020202,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.238253,0.002627
+Polygon,Bombe,SL02020301,Bombe,Magbema,SL020203,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.388833,0.003124
+Polygon,Kamba,SL02020302,Kamba,Magbema,SL020203,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.338122,0.004947
+Polygon,Kambia,SL02020303,Kambia,Magbema,SL020203,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.405546,0.004425
+Polygon,Kargbulor,SL02020304,Kargbulor,Magbema,SL020203,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.34878,0.004583
+Polygon,Robat,SL02020305,Robat,Magbema,SL020203,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.328879,0.003606
+Polygon,Rokupr,SL02020306,Rokupr,Magbema,SL020203,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.243283,0.002167
+Polygon,Tormina,SL02020307,Tormina,Magbema,SL020203,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.330511,0.004532
+Polygon,Kalenkay,SL02020401,Kalenkay,Mambolo,SL020204,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.41645,0.004416
+Polygon,Matetie,SL02020403,Matetie,Mambolo,SL020204,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.193434,0.001344
+Polygon,Mayakie,SL02020404,Mayakie,Mambolo,SL020204,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.305506,0.003496
+Polygon,Robis,SL02020405,Robis,Mambolo,SL020204,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.303368,0.003855
+Polygon,Rowollon,SL02020406,Rowollon,Mambolo,SL020204,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.152869,0.001671
+Polygon,Tombo-Wallah,SL02020407,Tombo-Wallah,Mambolo,SL020204,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.300178,0.002793
+Polygon,Bamoi,SL02020501,Bamoi,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.176397,0.00113
+Polygon,Mange,SL02020608,Mange,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.187921,0.001598
+Polygon,Benna,SL02020502,Benna,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.337978,0.003286
+Polygon,Kawula,SL02020503,Kawula,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.313783,0.005022
+Polygon,Kayenkassa,SL02020504,Kayenkassa,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.243428,0.002371
+Polygon,Mapolon,SL02020505,Mapolon,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.135991,0.00082
+Polygon,Maserie,SL02020506,Maserie,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.167736,0.001454
+Polygon,Matengha,SL02020507,Matengha,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.130819,0.000777
+Polygon,Matilba,SL02020508,Matilba,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.151975,0.000904
+Polygon,Nonko,SL02020509,Nonko,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.302797,0.003144
+Polygon,Samu,SL02020510,Samu,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.276334,0.002715
+Polygon,Sumbuya,SL02020511,Sumbuya,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.143874,0.001184
+Polygon,Thalla,SL02020512,Thalla,Masungbala,SL020205,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.26716,0.002521
+Polygon,Bubuya,SL02020601,Bubuya,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.378806,0.003912
+Polygon,Kpanga Koimato,SL03020701,Kpanga Koimato,Kwamebai Krim,SL030207,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.264808,0.004093
+Polygon,Kassiri,SL02020602,Kassiri,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.269192,0.003107
+Polygon,Koya,SL02020603,Koya,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.207141,0.002217
+Polygon,Kychom,SL02020604,Kychom,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,1.069513,0.007998
+Polygon,Lusenia,SL02020605,Lusenia,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.275476,0.00262
+Polygon,Mafufuneh,SL02020606,Mafufuneh,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.188355,0.001112
+Polygon,Makuma,SL02020607,Makuma,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.31526,0.003748
+Polygon,Mapotolon,SL02020609,Mapotolon,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.387534,0.005713
+Polygon,Moribaia,SL02020610,Moribaia,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.645366,0.009495
+Polygon,Rokon,SL02020611,Rokon,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.231752,0.002117
+Polygon,Rosinor,SL02020612,Rosinor,Samu,SL020206,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.179588,0.001135
+Polygon,Bubuya,SL02020701,Bubuya,Tonko Limba,SL020207,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.483858,0.010718
+Polygon,Kathanthineh,SL02020703,Kathanthineh,Tonko Limba,SL020207,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.959369,0.013982
+Polygon,Magbonkoh,SL02020704,Magbonkoh,Tonko Limba,SL020207,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.338163,0.004878
+Polygon,Sowonde,SL03041211,Sowonde,Yakemu Kpukumu,SL030412,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.189461,0.001379
+Polygon,Mamankoh,SL02020705,Mamankoh,Tonko Limba,SL020207,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.468183,0.007281
+Polygon,Fabaina Area,SL04010101,Fabaina Area,Koya Rural,SL040101,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.272269,0.002831
+Polygon,Madonkeh,SL04010102,Madonkeh,Koya Rural,SL040101,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.205483,0.00121
+Polygon,Magbafti,SL04010103,Magbafti,Koya Rural,SL040101,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.376594,0.004401
+Polygon,Malambay,SL04010104,Malambay,Koya Rural,SL040101,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.246083,0.001736
+Polygon,Newton,SL04010105,Newton,Koya Rural,SL040101,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.232608,0.002153
+Polygon,Songo,SL04010106,Songo,Koya Rural,SL040101,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.21465,0.001328
+Polygon,Bathurst,SL04010201,Bathurst,Mountain Rural,SL040102,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.130364,0.000806
+Polygon,Charlotte,SL04010202,Charlotte,Mountain Rural,SL040102,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.142814,0.001023
+Polygon,Gloucester,SL04010203,Gloucester,Mountain Rural,SL040102,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.081902,0.000327
+Polygon,Leicester,SL04010204,Leicester,Mountain Rural,SL040102,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.10555,0.00029
+Polygon,Regent,SL04010205,Regent,Mountain Rural,SL040102,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.137583,0.000736
+Polygon,Benguema Village A,SL04010301,Benguema Village A,Waterloo Rural,SL040103,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.280887,0.002276
+Polygon,Campbell Town Vill,SL04010302,Campbell Town Vill,Waterloo Rural,SL040103,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.220728,0.001034
+Polygon,Waterloo Village A,SL04010305,Waterloo Village A,Waterloo Rural,SL040103,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.256694,0.001718
+Polygon,Hastings Village A,SL04010303,Hastings Village A,Waterloo Rural,SL040103,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.482554,0.008614
+Polygon,Gbendembu,SL04010401,Gbendembu,York Rural,SL040104,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.102161,0.000425
+Polygon,Goderich-Adonkia/M,SL04010402,Goderich-Adonkia/M,York Rural,SL040104,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.175798,0.000977
+Polygon,Goderich-Funkia,SL04010403,Goderich-Funkia,York Rural,SL040104,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.047467,0.000054
+Polygon,Hamilton,SL04010404,Hamilton,York Rural,SL040104,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.308243,0.004987
+Polygon,Kent,SL04010405,Kent,York Rural,SL040104,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.38668,0.001847
+Polygon,Albert Academy,SL04020101,Albert Academy,Central I,SL040201,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.021714,0.000017
+Polygon,Kossoh Town,SL04020303,Kossoh Town,East I,SL040203,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.025265,0.000031
+Polygon,Sattia/Tombo,SL04010406,Sattia/Tombo,York Rural,SL040104,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.358871,0.003931
+Polygon,York,SL04010407,York,York Rural,SL040104,Western Area Rural,SL0401,Western,SL04,Sierra Leone,SL,0.456026,0.007612
+Polygon,Bombay,SL04020401,Bombay,East II,SL040204,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.015385,0.00001
+Polygon,Mountain Regent,SL04020102,Mountain Regent,Central I,SL040201,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.030871,0.000034
+Polygon,Sorie Town,SL04020103,Sorie Town,Central I,SL040201,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.037679,0.000064
+Polygon,Susan's Bay,SL04020104,Susans Bay,Central I,SL040201,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.021102,0.000019
+Polygon,Tower Hill,SL04020105,Tower Hill,Central I,SL040201,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.029311,0.000054
+Polygon,Connaught Hospital,SL04020201,Connaught Hospital,Central II,SL040202,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.030786,0.000033
+Polygon,Sanders Brook,SL04020202,Sanders Brook,Central II,SL040202,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.031828,0.000033
+Polygon,Cline Town,SL04020301,Cline Town,East I,SL040203,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.037963,0.000052
+Polygon,Fourah Bay,SL04020302,Fourah Bay,East I,SL040203,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.03418,0.00006
+Polygon,Coconut Farm/ Asho,SL04020402,Coconut Farm/ Asho,East II,SL040204,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.028006,0.000031
+Polygon,Foulah Town,SL04020403,Foulah Town,East II,SL040204,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.022571,0.000023
+Polygon,Ginger Hall,SL04020404,Ginger Hall,East II,SL040204,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.020182,0.000019
+Polygon,Kissy Brook,SL04020405,Kissy Brook,East II,SL040204,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.034681,0.000017
+Polygon,Magazine,SL04020406,Magazine,East II,SL040204,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.02029,0.000017
+Polygon,Mount Aureol,SL04020407,Mount Aureol,East II,SL040204,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.016971,0.000014
+Polygon,Quarry,SL04020408,Quarry,East II,SL040204,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.020736,0.000018
+Polygon,Congo Water I,SL04020504,Congo Water I,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.04069,0.000064
+Polygon,Allen Town I,SL04020501,Allen Town I,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.102388,0.000312
+Polygon,Congo Water II,SL04020505,Congo Water II,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.061331,0.000121
+Polygon,Allen Town II,SL04020502,Allen Town II,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.165988,0.000763
+Polygon,Bottom Oku,SL04020503,Bottom Oku,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.037276,0.000076
+Polygon,Grass Field,SL04020506,Grass Field,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.02959,0.00005
+Polygon,Industrial Estate,SL04020507,Industrial Estate,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.074593,0.000216
+Polygon,Kuntolor,SL04020514,Kuntolor,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.059014,0.000099
+Polygon,Jalloh Terrace,SL04020508,Jalloh Terrace,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.056331,0.000094
+Polygon,Kissy Brook,SL04020509,Kissy Brook,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.031499,0.00004
+Polygon,Lowcost Housing,SL04020515,Lowcost Housing,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.032344,0.000038
+Polygon,Kissy Bye Pass I,SL04020510,Kissy Bye Pass I,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.067149,0.000105
+Polygon,Mamba Ridge I,SL04020516,Mamba Ridge I,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.046519,0.000084
+Polygon,Mamba Ridge II,SL04020517,Mamba Ridge II,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.046032,0.000099
+Polygon,Kissy Bye Pass II,SL04020511,Kissy Bye Pass II,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.072902,0.000122
+Polygon,Kissy Mental,SL04020512,Kissy Mental,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.025292,0.000023
+Polygon,Kissy Mess Mess,SL04020513,Kissy Mess Mess,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.035578,0.000055
+Polygon,Mayenkineh,SL04020518,Mayenkineh,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.066926,0.000121
+Polygon,Old Warf,SL04020519,Old Warf,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.051842,0.000107
+Polygon,Njaifeh,SL01031003,Njaifeh,Nimiyama,SL010310,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.327047,0.005413
+Polygon,Pamuronko,SL04020520,Pamuronko,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.063042,0.00013
+Polygon,Portee,SL04020521,Portee,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.02442,0.000029
+Polygon,Thunderhill,SL04020526,Thunderhill,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.054198,0.000153
+Polygon,Robis,SL04020522,Robis,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.058294,0.000134
+Polygon,Rokupa,SL04020523,Rokupa,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.024484,0.000029
+Polygon,Shell,SL04020524,Shell,East III,SL040205,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.024854,0.00003
+Polygon,Cockerill-Aberdeen,SL04020802,Cockerill-Aberdeen,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.053604,0.000064
+Polygon,Ascension Town,SL04020601,Ascension Town,West I,SL040206,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.024119,0.000027
+Polygon,Brookfields,SL04020602,Brookfields,West I,SL040206,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.036512,0.000047
+Polygon,Kingtom,SL04020603,Kingtom,West I,SL040206,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.039911,0.000074
+Polygon,Kroo Town,SL04020604,Kroo Town,West I,SL040206,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.028921,0.000034
+Polygon,Brookfields-Congo,SL04020701,Brookfields-Congo,West II,SL040207,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.027568,0.000041
+Polygon,Brookfields-Red Pu,SL04020702,Brookfields-Red Pu,West II,SL040207,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.044141,0.000052
+Polygon,Congo Town,SL04020703,Congo Town,West II,SL040207,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.042023,0.000067
+Polygon,George Brook (Dwor,SL04020704,George Brook (Dwor,West II,SL040207,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.06604,0.00019
+Polygon,New England-Hannes,SL04020705,New England-Hannes,West II,SL040207,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.041406,0.000051
+Polygon,New England-Hill C,SL04020706,New England-Hill C,West II,SL040207,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.041911,0.000091
+Polygon,Cockle-Bay /Colleg,SL04020803,Cockle-Bay /Colleg,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.05562,0.00008
+Polygon,Tengbeh Town,SL04020707,Tengbeh Town,West II,SL040207,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.038756,0.000056
+Polygon,Aberdeen,SL04020801,Aberdeen,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.125828,0.00032
+Polygon,Hill Station,SL04020804,Hill Station,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.066892,0.000162
+Polygon,Juba/Kaningo,SL04020805,Juba/Kaningo,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.104057,0.000305
+Polygon,Njagbakahun,SL01031002,Njagbakahun,Nimiyama,SL010310,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.343122,0.005887
+Polygon,Lumley,SL04020806,Lumley,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.086717,0.000198
+Polygon,Malama/Kamayama,SL04020807,Malama/Kamayama,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.061766,0.000174
+Polygon,Murray Town,SL04020808,Murray Town,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.049205,0.000107
+Polygon,Pipeline/Wilkinson,SL04020809,Pipeline/Wilkinson,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.083961,0.000142
+Polygon,Wilberforce,SL04020810,Wilberforce,West III,SL040208,Western Area Urban,SL0402,Western,SL04,Sierra Leone,SL,0.082507,0.000147
+Polygon,Lower Sami,SL01010902,Lower Sami,Malema,SL010109,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.7599,0.017409
+Polygon,Jagor,SL01011202,Jagor,Penguia,SL010112,Kailahun,SL0101,Eastern,SL01,Sierra Leone,SL,0.208493,0.000996
+Polygon,Ngiewoma-Njeigor,SL01021103,Ngiewoma-Njeigor,Nomo,SL010211,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.561358,0.012069
+Polygon,Kufuru,SL02020113,Kufuru,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.281409,0.00409
+Polygon,Gorahun,SL01021504,Gorahun,Tunkia,SL010215,Kenema,SL0102,Eastern,SL01,Sierra Leone,SL,0.741592,0.024868
+Polygon,Gbane Yemao,SL01030201,Gbane Yemao,Gbane,SL010302,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.333783,0.005962
+Polygon,Mongo,SL01030205,Mongo,Gbane,SL010302,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.692126,0.011709
+Polygon,Bunabu,SL01030501,Bunabu,Gorama Kono,SL010305,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.501905,0.011487
+Polygon,Kangama,SL01030502,Kangama,Gorama Kono,SL010305,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.471885,0.010005
+Polygon,Selokoma,SL01030503,Selokoma,Gorama Kono,SL010305,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.352124,0.004582
+Polygon,Koaro,SL01030704,Koaro,Lei,SL010307,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.48325,0.008668
+Polygon,Peyifeh,SL01031004,Peyifeh,Nimiyama,SL010310,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.312928,0.005446
+Polygon,Tama,SL01031005,Tama,Nimiyama,SL010310,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.332085,0.005037
+Polygon,Fakongofeh,SL01031103,Fakongofeh,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.504986,0.011608
+Polygon,Kawafeh,SL01031104,Kawafeh,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.546719,0.011211
+Polygon,Samgbafeh,SL01031106,Samgbafeh,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.444742,0.008288
+Polygon,Sinkongofeh,SL01031107,Sinkongofeh,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.464391,0.008905
+Polygon,Sumunjifeh,SL01031108,Sumunjifeh,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.555201,0.010354
+Polygon,Tharma Forest,SL01031109,Tharma Forest,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.679573,0.016775
+Polygon,Yawatanda,SL01031110,Yawatanda,Sandor,SL010311,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.779991,0.020114
+Polygon,Sawa Fiama,SL01031206,Sawa Fiama,Soa,SL010312,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.426417,0.006525
+Polygon,Komadu,SL01031402,Komadu,Toli,SL010314,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.299061,0.004133
+Polygon,Kwidu,SL01031403,Kwidu,Toli,SL010314,Kono,SL0103,Eastern,SL01,Sierra Leone,SL,0.250832,0.002808
+Polygon,Konta,SL02020111,Konta,Bramaia,SL020201,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.423032,0.008708
+Polygon,Kamassassa,SL02020702,Kamassassa,Tonko Limba,SL020207,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.665179,0.024143
+Polygon,Yebaya,SL02020706,Yebaya,Tonko Limba,SL020207,Kambia,SL0202,Northern,SL02,Sierra Leone,SL,0.90728,0.011958
+Polygon,Marunia Koray,SL02050403,Marunia Koray,Kholifa Mabang,SL020504,Tonkolili,SL0205,Northern,SL02,Sierra Leone,SL,0.341687,0.003653
+Polygon,Saradu,SL02030605,Saradu,Neya,SL020306,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,1.016137,0.031629
+Polygon,Sumbaria,SL02030703,Sumbaria,Nieni,SL020307,Koinadugu,SL0203,Northern,SL02,Sierra Leone,SL,0.759689,0.017618
+Polygon,Kahekay,SL03020404,Kahekay,Imperri,SL030204,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.448886,0.005227
+Polygon,Yurika,SL02040614,Yurika,Lokomasama,SL020406,Port Loko,SL0204,Northern,SL02,Sierra Leone,SL,0.575006,0.010816
+Polygon,Ba-Kobotu,SL03020601,Ba-Kobotu,Kpanda Kemo,SL030206,Bonthe,SL0302,Southern,SL03,Sierra Leone,SL,0.303988,0.002177
+Polygon,Benkeh,SL03030102,Benkeh,Bagruwa,SL030301,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.943669,0.018941
+Polygon,Njagbema,SL03030705,Njagbema,Kamajei,SL030307,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.312043,0.002831
+Polygon,Yeima,SL03030707,Yeima,Kamajei,SL030307,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.354564,0.004961
+Polygon,Lower Ribbi,SL03031202,Lower Ribbi,Ribbi,SL030312,Moyamba,SL0303,Southern,SL03,Sierra Leone,SL,0.406057,0.006627
+Polygon,Pembaar,SL03040705,Pembaar,Mono Sakrim,SL030407,Pujehun,SL0304,Southern,SL03,Sierra Leone,SL,0.293314,0.004047
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
