@@ -7,12 +7,13 @@ import os
 import shutil
 import glob 
 """
-   A python  package that generates a standardized unique identity  based on a country's administrative division or any level for your use case
-Use cases:
-       Create unique school identity in education management information system.
-       create unique health facility identity in health management information system.
-       Standardize administrative level geocode.
-       Area indentity generation in digital addressing system,
+  Isogeocoder is a tool that generates and assign standardized iso compliant unique identification number or coders for a location and entities.
+isogeocoder is a tool that generates and assigns standardized iso compliant unique identification numbers or codes for entities based on location information. It can create and assign codes based on a country's administrative division (geo-location) or any administrative level depending on the use case. 
+Examples include:
+* Unique school identity for an education management information system.
+* Unique health facility identity for a health management information system. 
+* Standard administrative level geocode for country planning.
+* Administrative level identity generation in digital addressing system.
 
 """
 def data(path):
@@ -33,12 +34,13 @@ def data(path):
         df = "Unknown extension"
     return df
 
-def level1(df,column):
+def level1(df,column,index=None):
     
     """
        Parameters:
            df: administrative level dataset as a pandas data frame
            column: the level column
+           index: the starting index value 
         Returns:
             Dataframe of Level name and Code
         Examples:
@@ -52,7 +54,10 @@ def level1(df,column):
         shutil.rmtree(level_one_dir)
         os.mkdir(level_one_dir)
 
-
+    if index is not None:
+        df.index+=index
+    else:
+        index=1
     level_1_df_drop_duplicate = df.drop_duplicates(subset=[column])
     zfill = len(str(level_1_df_drop_duplicate.shape[0]))
     level_one = list(df[column].unique())
@@ -62,7 +67,7 @@ def level1(df,column):
     level_code = []
 
     for i in range(level_one_len):
-            ccode = i+1
+            ccode = i+index
             vcode = str(ccode)
             code = vcode.zfill(zfill)
             level_code.append(code)
@@ -76,13 +81,14 @@ def level1(df,column):
 
 
 
-def level2(df,level_one,column) :
+def level2(df,level_one,column,index=None) :
     """
         Parameters:
            df: administrative level dataset as a pandas data frame
            level_one_df
            level_one: the level one dataframe
            column: the level column 
+           index: the starting index value
         Returns:
             Dataframe of Level name and Code
         Examples:
@@ -95,6 +101,10 @@ def level2(df,level_one,column) :
     else:
         shutil.rmtree(level_two_dir)
         os.mkdir(level_two_dir)
+    if index is not None:
+        df.index+=index
+    else:
+        index = 1
     
     levels = []
     level_one_col = level_one.columns[0]
@@ -104,6 +114,7 @@ def level2(df,level_one,column) :
     current_level = df.drop_duplicates(subset=[column])
     Previous_level = current_level.groupby([level_one_col]).count()
     zfill = len(str(Previous_level.iloc[:, 0].max()))
+    df[level_one_col] = df[level_one_col].str.upper()
     for index,row in level_one.iterrows():
         level_one_column = re.sub(r'[^a-zA-Z0-9]','_',row[0])
         level_two = df[df[level_one_col]==row[0]]
@@ -113,7 +124,7 @@ def level2(df,level_one,column) :
         lv = []
         levels.append(lv)
         for i in range(level_two_len):
-            ccode = i+1
+            ccode = i+index
             vcode = str(ccode)
             code = vcode.zfill(zfill)
             coded = '{}{}'.format(row[1],code)
@@ -125,6 +136,7 @@ def level2(df,level_one,column) :
             level_df[level_one_col] = row[0]
             level_df[level_one_col_code] = row[1]
             level_df[level_code_col] = level_df[level_code_col].astype(int).astype(str)
+            level_df[column] = level_df[column].str.upper()
             level_df_final = level_df[[level_one_col,level_one_col_code,column,level_code_col]]
             level_df_final.to_csv(level_two_dir+"/{}_level_two.csv".format(level_one_column),index=False) 
 
@@ -139,13 +151,14 @@ def level2(df,level_one,column) :
     level_two_df_all.to_csv(level_two_dir+"/level_two.csv",index=False)
     return level_two_df_all
 
-def level3(df,level_one,column) :
+def level3(df,level_two,column,index=None) :
     """
         Parameters:
            df: administrative level dataset as a pandas data frame
            level_one_df
-           level_one: the level one dataframe
+           level_two: the level two dataframe
            column: the level column 
+           index: the starting index value
         Returns:
             Dataframe of Level name and Code
         Examples:
@@ -157,13 +170,18 @@ def level3(df,level_one,column) :
     else:
         shutil.rmtree(level_three_dir)
         os.mkdir(level_three_dir)
+    
+    if index is not None:
+        df.index+=index
+    else:
+        index = 1
        
     levels = []
-    level_one_col = level_one.columns[0]
-    level_one_col_code = level_one.columns[1]
+    level_one_col = level_two.columns[0]
+    level_one_col_code = level_two.columns[1]
     
-    level_two_col = level_one.columns[2]
-    level_two_col_code = level_one.columns[3]
+    level_two_col = level_two.columns[2]
+    level_two_col_code = level_two.columns[3]
     
     #zfill 
     current_level = df.drop_duplicates(subset=[column])
@@ -171,25 +189,26 @@ def level3(df,level_one,column) :
     zfill = len(str(Previous_level.iloc[:, 0].max()))
     
     level_code_col = '{}_code'.format(column)
-    for index,row in level_one.iterrows():
+    df[level_two_col] = df[level_two_col].str.upper()
+    for index,row in level_two.iterrows():
         level_two_column = re.sub(r'[^a-zA-Z0-9]','_',row[2])
         level_3_df_drop_duplicate = df.drop_duplicates(subset=[column])
-        level_two = level_3_df_drop_duplicate[level_3_df_drop_duplicate[level_two_col]==row[2]]
+        level_three = level_3_df_drop_duplicate[level_3_df_drop_duplicate[level_two_col]==row[2]]
 
-        level_two_uniq = list(level_two[column].unique())
-        level_two_len = len(level_two_uniq)
-        level_two_code = []
+        level_three_uniq = list(level_three[column].unique())
+        level_three_len = len(level_three_uniq)
+        level_three_code = []
         lv = []
         levels.append(lv)
-        for i in range(level_two_len):
-            ccode = i+1
+        for i in range(level_three_len):
+            ccode = i+index
             vcode = str(ccode)
             code = vcode.zfill(zfill)
             coded = '{}{}'.format(row[3],code)
             
-            level_two_code.append(coded)
-        level_two_zip = list(zip(level_two_uniq,level_two_code))
-        lv.append(np.array(list(level_two_zip)).tolist())
+            level_three_code.append(coded)
+        level_three_zip = list(zip(level_three_uniq,level_three_code))
+        lv.append(np.array(list(level_three_zip)).tolist())
 
         
         for i in range(len(levels)):
@@ -199,6 +218,7 @@ def level3(df,level_one,column) :
             level_df[level_two_col] = row[2]
             level_df[level_two_col_code] = row[3]
             level_df[level_code_col] = level_df[level_code_col].astype(int).astype(str)
+            level_df[column] = level_df[column].str.upper()
             level_df_final = level_df[[level_one_col,level_one_col_code,level_two_col,level_two_col_code,column,level_code_col]]
             level_df_final.to_csv(level_three_dir+"/{}_level_three.csv".format(level_two_column),index=False) 
             
@@ -214,13 +234,14 @@ def level3(df,level_one,column) :
     level_df_all.to_csv(level_three_dir+"/level_three.csv",index=False)
     return level_df_all
 
-def level4(df,level_three,column) :
+def level4(df,level_three,column,index=None) :
     """
         Parameters:
             df: administrative level dataset as a pandas data frame
             level_three_df
-            level_three: the level one dataframe
+            level_three: the level three dataframe
             column: the level column 
+            index: the starting index value
         Returns:
             Dataframe of Level name and Code
         Examples:
@@ -233,6 +254,10 @@ def level4(df,level_three,column) :
     else:
         shutil.rmtree(level_four_dir)
         os.mkdir(level_four_dir)
+    if index is not None:
+        df.index+=index
+    else:
+        index = 1
 
     levels = []
     level_one_col = level_three.columns[0]
@@ -251,6 +276,8 @@ def level4(df,level_three,column) :
 
     #Name the coded column in the dataframe
     level_code_col = '{}_code'.format(column)
+    
+    df[level_three_col] = df[level_three_col].str.upper()
 
     for index,row in level_three.iterrows():
         level_three_column = re.sub(r'[^a-zA-Z0-9]','_',row[4])
@@ -258,8 +285,9 @@ def level4(df,level_three,column) :
         level_df = df_clean[df_clean[level_three_col]==row[4]]
         level_df.reset_index(drop=True, inplace=True)
         level_df.index = list(level_df.index)
-        level_df[level_code_col] = str(row[5])+(level_df.index+1).astype(str).str.zfill(zfill)
+        level_df[level_code_col] = str(row[5])+(level_df.index+index).astype(str).str.zfill(zfill)
         level_df[level_code_col] = level_df[level_code_col].astype(int).astype(str)
+        level_df[column] = level_df[column].str.upper()
         level_df[level_one_col] = row[0]
         level_df[level_one_col_code] = row[1]
         level_df[level_two_col] = row[2]
@@ -280,12 +308,13 @@ def level4(df,level_three,column) :
     level_df_all.to_csv(level_four_dir+"/level_four.csv",index=False)
     return level_df_all
 
-def categorical(df,column,encoding_type=None):
+def categorical(df,column,encoding_type=None,index=None):
     """
       Parameters:
            df: administrative level dataset as a pandas data frame
            column: the level column 
            encoding_type: output type eg  letter or number coding
+           index: the starting index value
       Returns:
             Dataframe of Level name and Code
       Examples:categorical(school_data,'sch_type',encoding_type='string')
@@ -298,6 +327,10 @@ def categorical(df,column,encoding_type=None):
         os.mkdir(categorical_dir)
     categories = df[column].unique()
     encoding_type_cap = encoding_type.capitalize()
+    if index is not None:
+        df.index=+index
+    else:
+        index = 1
     alpha = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
     lss = []
     for index in range(0,len(categories)):
@@ -305,7 +338,7 @@ def categorical(df,column,encoding_type=None):
             if encoding_type_cap == 'Alphabet' or encoding_type_cap == 'String' or encoding_type_cap == 'Letter':
                  l = [categories[index],alpha[index]]
             else:
-                 l = [categories[index],index+1]
+                 l = [categories[index],index+index]
             lss.append(l)
         else:
             print("Index ",index," not in range")
@@ -314,12 +347,24 @@ def categorical(df,column,encoding_type=None):
     level_df.to_csv(categorical_dir+"/categorical_encoding.csv",index=False)
     return level_df
 
-def uniqueid(df,level_four_df,column):
+def uniqueid(df,level_four_df,column,index=None):
+    """
+        Parameters:
+               df: administrative level dataset as a pandas data frame
+               level_three: the level three dataframe
+               column: the level column 
+               index: the starting index value
+    """
+    
+    if index is not None:
+        df.index+=index
+    else:
+        index = 1
     zfill = len(str(df.shape[0]))
     prevoius_level = list(level_four_df.columns)
     #Name the coded column in the dataframe
     level_code_col = '{}_code'.format(column)
-    df[level_code_col] = (df.index+1).astype(str).str.zfill(zfill)
+    df[level_code_col] = (df.index+index).astype(str).str.zfill(zfill)
     columns = [pcolumn for pcolumn in level_four_df if "code" not in pcolumn]
     columns.append(column)
     columns.append(level_code_col)
@@ -364,6 +409,16 @@ def gencode(level_df,uniqueid_df,cat_df=None,level_column = None,uniqueid_column
         cat_df_col = cat_df_col_
         df_final[title] = df_final[level_column].astype(int).astype(str)+df_final[uniqueid_column].astype(str)
     return df_final
+def code_generator(geocode,level,number_of_schools):
+    codes = []
+    last_id = schools_df.shape[0]
+    for i in range(number_of_schools):
+        last_id = last_id+1
+        code = '{}-{}-{}'.format(str(geocode),str(level),str(last_id))
+        codes.append(code)
+        #send the generate emis code to update schools_df
+           #to do
+    return codes
 
 def alpha_coder(level_df,column,add_char=None,clen = None):
         """

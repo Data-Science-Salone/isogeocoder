@@ -9,12 +9,12 @@ import shutil
 import glob 
 import io
 """
-   A python  package that generates a standardized unique identity  based on a country's administrative division or any level for your use case
-Use cases:
-       Create unique school identity in education management information system.
-       create unique health facility identity in health management information system.
-       Standardize administrative level geocode.
-       Area indentity generation in digital addressing system,
+  isogeocoder is a tool that generates and assigns standardized iso compliant unique identification numbers or codes for entities based on location information. It can create and assign codes based on a country's administrative division (geo-location) or any administrative level depending on the use case. 
+Examples include:
+* Unique school identity for an education management information system.
+* Unique health facility identity for a health management information system. 
+* Standard administrative level geocode for country planning.
+* Administrative level identity generation in digital addressing system.
 
 """
 def countries_data():
