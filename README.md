@@ -11,6 +11,7 @@ isogeocoder is a tool that generates and assigns standardized iso compliant uniq
 isogeocoder is built on the pandas framework; so all pandas operations can work on isogeocoder. Dataframes generated from each administrative level are saved as CSV files.
 
 We also recommended using the Jupyter notebook.
+
 ##  Installation
 Install isogeocoder with pip3
 
@@ -19,9 +20,9 @@ pip3 install isogeocoder
 ```
       
 ##   Usage/Examples
-  
-   isogeocoder is a combination of two libraries, one is the iso library, a standard country dataset manipulation; and the geo library which generates administrative level code on your dataset and generates a unique id using the index of your entity dataset. In the examples, we use the Sierra Leone school list provided by the MInistry of Basic and Senior Secondary Education, dataset [Sierra Leone School List](https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/sl_school_list.csv)
+isogeocoder is a combination of two libraries, one is the iso library, a standard country dataset manipulation; and the geo library which generates administrative level code on your dataset and generates a unique id using the index of your entity dataset. In the examples, we use the Sierra Leone school list provided by the MInistry of Basic and Senior Secondary Education, dataset [Sierra Leone School List](https://raw.githubusercontent.com/MBSSE-SL/isogeocoder/main/sl_school_list.csv)
    
+
    **GEO Examples**:
    
    Generating a unique school identity for an EMIS system
@@ -47,8 +48,11 @@ Chiefdom = geo.level3(schools_df,District,'idchiefdom')
 Chiefdom
 Section = geo.level4(schools_df,Chiefdom,'idsection')
 Section
+<<<<<<< HEAD
 Schools = geo.uniqueid(schools_df,Section,'idschool_name')
 Schools
+=======
+>>>>>>> 1bbc060061aa62acd289c8d1934f713be29d7028
 School_Type = geo.categorical(schools_df,'sch_type',encoding_type='integer')
 School_Type
 school_masterlist = geo.gencode(Section,Schools,cat_df=School_Type,level_column='idchiefdom',uniqueid_column='idschool_name_edited_code',title='emis_code',sep='-')
