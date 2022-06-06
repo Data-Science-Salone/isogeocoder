@@ -1,4 +1,4 @@
- isogeocoder is a combination of two libraries, one is the **iso** library, standard countries dataset manipulation, and the **geo** library which generates administrative level code on your dataset and generates id using the index of your entity dataset.  
+ isogeocoder is a combination of two libraries, one is the ***iso*** library, a standard country dataset manipulation; and the ***geo*** library which generates administrative level code on your dataset and generates a unique id using the index of your entity dataset.
 ```python
 from  isogeocoder import geo,iso
 ```
