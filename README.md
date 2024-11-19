@@ -48,11 +48,8 @@ Chiefdom = geo.level3(schools_df,District,'idchiefdom')
 Chiefdom
 Section = geo.level4(schools_df,Chiefdom,'idsection')
 Section
-<<<<<<< HEAD
 Schools = geo.uniqueid(schools_df,Section,'idschool_name')
 Schools
-=======
->>>>>>> 1bbc060061aa62acd289c8d1934f713be29d7028
 School_Type = geo.categorical(schools_df,'sch_type',encoding_type='integer')
 School_Type
 school_masterlist = geo.gencode(Section,Schools,cat_df=School_Type,level_column='idchiefdom',uniqueid_column='idschool_name_edited_code',title='emis_code',sep='-')
